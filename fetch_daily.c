@@ -1,9 +1,11 @@
 /*
- * Daily Digest generator — C version.
+ * Daily Digest generator — C version (trimmed).
  *
- * Builds the same 10-section daily digest as the Python version (Word,
- * Fact, Quote, Question, Image, Trivia, Tip, Discovery, History, Idea
- * "of the Day") and writes it to README.md for GitHub Pages.
+ * Builds a 6-section daily digest — Word, Fact, Quote, Image, Trivia,
+ * and History "of the Day" — and writes it to README.md for GitHub
+ * Pages. The 4 sections that weren't backed by a live API (Question,
+ * Tip, Discovery, Idea) have been removed; every remaining section
+ * pulls fresh content from a real external source each run.
  *
  * Dependencies: libcurl (HTTP) only. No JSON library — this file uses a
  * small, deliberately simple "find this key's string value" scanner
@@ -19,10 +21,6 @@
  *
  * Build:
  *   gcc -O2 -Wall -o fetch_daily fetch_daily.c -lcurl
- *
- * Four sections (Question, Tip, Discovery, Idea) have no good free API,
- * so they rotate through a curated list based on day-of-year (UTC),
- * matching the Python version's behavior.
  */
 
 #include <stdio.h>
@@ -202,109 +200,6 @@ static void html_decode_inplace(char *s) {
 }
 
 /* ------------------------------------------------------------------ */
-/* Curated fallback / rotating lists                                   */
-/* ------------------------------------------------------------------ */
-
-static const char *QUESTIONS[] = {
-    "What's a skill you'd love to master if time and money weren't an issue?",
-    "What's the best piece of advice you've ever ignored?",
-    "If you could instantly become an expert in one subject, what would it be?",
-    "What's something you believed as a kid that you laugh about now?",
-    "Who is someone that changed the way you see the world?",
-    "What's a small thing that made you unreasonably happy recently?",
-    "If you had an extra hour every day, what would you do with it?",
-    "What's a place you've never been but feel drawn to?",
-    "What does 'success' mean to you today, versus five years ago?",
-    "What's a habit you're proud of building?",
-    "What's a question you wish people asked you more often?",
-    "What's something you learned the hard way?",
-    "If you could send one sentence back to your younger self, what would it say?",
-    "What's a book, film, or song that quietly changed you?",
-    "What's something you're curious about but haven't looked into yet?",
-    "What does an ideal ordinary day look like for you?",
-    "What's a risk that turned out to be worth it?",
-    "What's a tradition you want to start or keep alive?",
-    "Who do you need to thank that you haven't yet?",
-    "What's something you do differently than most people, and why?",
-    "What would you attempt if you knew you couldn't fail?",
-    "What's a compliment you received that you still remember?",
-    "What's something you've changed your mind about recently?",
-    "If your life had a theme song right now, what would it be?",
-    "What's a small act of kindness you witnessed or received?",
-    "What's a comfort zone you're ready to step out of?",
-    "What does 'home' mean to you?",
-    "What's something you want to be remembered for?",
-    "What's a question you find yourself asking a lot lately?",
-    "What's the most useful thing you've learned from a mistake?",
-};
-
-static const char *TIPS[] = {
-    "Write tomorrow's top 3 priorities before you finish work today - you'll start faster and calmer.",
-    "When learning something new, teach it to someone (even an imaginary someone) - it exposes gaps fast.",
-    "Keep a 'done' list, not just a to-do list. It's a fast antidote to feeling unproductive.",
-    "Batch small errands and messages instead of reacting to each one as it appears.",
-    "Before agreeing to something, ask 'what would I have to say no to, to say yes to this?'",
-    "Drink a glass of water before your morning coffee - most 'tiredness' is mild dehydration.",
-    "Use the 2-minute rule: if a task takes under 2 minutes, do it now instead of queueing it.",
-    "When stuck on a problem, explain it out loud (or in writing) as if to a beginner.",
-    "Keep your workspace ready to use - friction at the start kills more momentum than difficulty does.",
-    "Default to 'send' - most drafts are better shipped imperfect than polished never.",
-    "Schedule breaks like meetings - they're easier to protect when they're on the calendar.",
-    "When overwhelmed, write down everything in your head, then pick just one item to start.",
-    "Say the actual next physical action out loud - 'plan trip' becomes 'open maps app.'",
-    "Review your calendar the night before, not the morning of.",
-    "Keep one running list of ideas so you're not trying to hold onto them all mentally.",
-    "Ask 'what does done look like?' before starting any task - it prevents scope creep.",
-    "Set a timer for focused work instead of committing to 'work until it's finished.'",
-    "Replace 'I don't have time' with 'it's not a priority' and see how that feels.",
-    "Put your phone in another room while doing deep work - proximity alone pulls attention.",
-    "When giving feedback, lead with what's working before what needs to change.",
-};
-
-static const char *DISCOVERIES[] = {
-    "Octopuses have three hearts and blue, copper-based blood instead of iron-based red blood.",
-    "There's a shape called a 'gomboc' - a 3D object with only one stable and one unstable equilibrium point.",
-    "Bananas are botanically berries, but strawberries are not.",
-    "The Great Wall of China is not actually visible from space with the naked eye.",
-    "Some trees communicate and share resources through underground fungal networks, the 'wood wide web.'",
-    "A day on Venus is longer than its year - it rotates so slowly that one day exceeds one orbit.",
-    "The word 'quarantine' comes from the Italian 'quaranta giorni,' meaning 'forty days.'",
-    "Wombat droppings are cube-shaped, which keeps them from rolling away.",
-    "There are more possible chess games than atoms in the observable universe.",
-    "The Eiffel Tower grows about 15 cm taller in summer due to thermal expansion of the iron.",
-    "Sharks existed before trees - sharks are roughly 400 million years old, trees around 350 million.",
-    "Your brain uses about 20% of your body's total energy despite being roughly 2% of your body weight.",
-    "A group of flamingos is called a 'flamboyance.'",
-    "The inventor of the frisbee, Walter Morrison, was cremated and made into memorial frisbees.",
-    "Antarctica is technically the world's largest desert, defined by low precipitation, not heat.",
-    "Some jellyfish, like Turritopsis dohrnii, can revert to an earlier life stage - biologically 'immortal.'",
-    "Scotland's national animal is the unicorn.",
-    "The shortest war in recorded history lasted about 38 minutes (Britain vs. Zanzibar, 1896).",
-    "Hot water can freeze faster than cold water under certain conditions - the Mpemba effect.",
-    "A single bolt of lightning contains enough energy to toast about 100,000 slices of bread.",
-};
-
-static const char *IDEAS[] = {
-    "What if your notes app could ask you questions instead of just storing answers?",
-    "A 'reverse bucket list' - things you're glad you didn't do.",
-    "Design a city block where every building has to share something with its neighbor.",
-    "A subscription box that sends you ingredients for a skill, not a meal.",
-    "What if streetlights dimmed or brightened based on how many people were nearby?",
-    "A 'slow news' digest that only reports stories once they're a week old.",
-    "Imagine furniture that's rated by how well it ages, not just how it looks new.",
-    "A tip jar for good ideas in meetings, not just good service.",
-    "What if your calendar showed energy levels, not just time blocks?",
-    "A library where you can borrow experiences instead of just books.",
-    "Redesign the 'like' button to instead ask 'what did this make you think of?'",
-    "A city planning rule: every new building must also improve one public space nearby.",
-    "What if apologies had a required 'what I'll do differently' field?",
-    "A game where the goal is to make the other player's next move easier, not harder.",
-    "Imagine a resume that lists what you're curious about, not just what you've done.",
-};
-
-#define ARRLEN(a) (sizeof(a) / sizeof((a)[0]))
-
-/* ------------------------------------------------------------------ */
 /* Section builders — each appends to the output FILE*                 */
 /* ------------------------------------------------------------------ */
 
@@ -392,12 +287,6 @@ static void quote_of_the_day(FILE *f) {
     free(a);
     free(json);
     section_footer(f, "ZenQuotes API", "https://zenquotes.io/");
-}
-
-static void question_of_the_day(FILE *f, int day_of_year) {
-    section_header(f, "\xE2\x9D\x93 Question of the Day", "A prompt for reflection, conversation, or curiosity.");
-    fprintf(f, "%s", QUESTIONS[day_of_year % ARRLEN(QUESTIONS)]);
-    section_footer(f, "Curated list (rotates daily by date)", NULL);
 }
 
 static void image_of_the_day(FILE *f, struct tm *utc) {
@@ -495,18 +384,6 @@ static void trivia_of_the_day(FILE *f) {
     section_footer(f, "Open Trivia Database", "https://opentdb.com/");
 }
 
-static void tip_of_the_day(FILE *f, int day_of_year) {
-    section_header(f, "\xE2\x9C\x85 Tip of the Day", "Practical advice or a small life hack.");
-    fprintf(f, "%s", TIPS[day_of_year % ARRLEN(TIPS)]);
-    section_footer(f, "Curated list (rotates daily by date)", NULL);
-}
-
-static void discovery_of_the_day(FILE *f, int day_of_year) {
-    section_header(f, "\xF0\x9F\x94\x8E Discovery of the Day", "Something new to learn or explore.");
-    fprintf(f, "%s", DISCOVERIES[day_of_year % ARRLEN(DISCOVERIES)]);
-    section_footer(f, "Curated list (rotates daily by date)", NULL);
-}
-
 static void history_of_the_day(FILE *f, struct tm *utc) {
     section_header(f, "\xF0\x9F\x95\xB0\xEF\xB8\x8F History of the Day",
                     "An event, person, or moment from history on this date.");
@@ -533,12 +410,6 @@ static void history_of_the_day(FILE *f, struct tm *utc) {
     section_footer(f, "On This Day API (byabbe.se)", "https://byabbe.se/on-this-day/");
 }
 
-static void idea_of_the_day(FILE *f, int day_of_year) {
-    section_header(f, "\xE2\x9C\xA8 Idea of the Day", "A thought, concept, possibility, or creative spark.");
-    fprintf(f, "%s", IDEAS[day_of_year % ARRLEN(IDEAS)]);
-    section_footer(f, "Curated list (rotates daily by date)", NULL);
-}
-
 /* ------------------------------------------------------------------ */
 /* main                                                                 */
 /* ------------------------------------------------------------------ */
@@ -549,7 +420,6 @@ int main(void) {
     time_t now = time(NULL);
     struct tm utc;
     gmtime_r(&now, &utc);
-    int day_of_year = utc.tm_yday;
 
     FILE *f = fopen(OUTPUT_FILE, "w");
     if (!f) {
@@ -563,18 +433,14 @@ int main(void) {
              utc.tm_year + 1900, utc.tm_mon + 1, utc.tm_mday);
 
     fprintf(f, "# Daily Digest - %s\n\n", date_str);
-    fprintf(f, "_A 10-part daily digest, refreshed automatically once a day._\n\n");
+    fprintf(f, "_A daily digest, refreshed automatically once a day._\n\n");
 
     word_of_the_day(f);
     fact_of_the_day(f);
     quote_of_the_day(f);
-    question_of_the_day(f, day_of_year);
     image_of_the_day(f, &utc);
     trivia_of_the_day(f);
-    tip_of_the_day(f, day_of_year);
-    discovery_of_the_day(f, day_of_year);
     history_of_the_day(f, &utc);
-    idea_of_the_day(f, day_of_year);
 
     char ts[64];
     strftime(ts, sizeof(ts), "%Y-%m-%dT%H:%M:%SZ", &utc);
