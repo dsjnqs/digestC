@@ -5,7 +5,7 @@ _A daily digest, refreshed automatically once a day._
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**decolletages** - (definition lookup failed: HTTP error response)
+**botulinuses** - (definition lookup failed: HTTP error response)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-13% of Americans actually believe that some parts of the moon are made of cheese.
+Our eyes are always the same size from birth but our nose and ears never stop growing.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -45,8 +45,8 @@ Stephan Sprinz
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[General Knowledge - easy]** What is the name of NASA&rsquo;s most famous space telescope?
-> Answer: ||Hubble Space Telescope||
+**[Entertainment: Video Games - hard]** Which of the following commercial vehicles from Grand Theft Auto IV did NOT reappear in Grand Theft Auto V?
+> Answer: ||Steed||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-08-13T01:52:47Z UTC_
+_Last updated: 2026-08-13T07:25:26Z UTC_
