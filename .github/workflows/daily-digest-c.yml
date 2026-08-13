@@ -1,0 +1,36 @@
+name: Daily Digest (C)
+
+on:
+  schedule:
+    # Runs every day at 06:00 UTC. Adjust as needed.
+    - cron: '0 6 * * *'
+  workflow_dispatch: {}   # allows manual trigger from the Actions tab
+
+permissions:
+  contents: write   # needed so the workflow can commit README.md back to the repo
+
+jobs:
+  update-digest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install libcurl dev headers
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libcurl4-openssl-dev
+
+      - name: Compile
+        run: gcc -O2 -Wall -o fetch_daily fetch_daily.c -lcurl
+
+      - name: Run daily digest
+        run: ./fetch_daily
+
+      - name: Commit and push if README.md changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "Update daily digest $(date -u +'%Y-%m-%d')"
+          git push
