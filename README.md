@@ -1,11 +1,11 @@
-# Daily Digest - 2026-08-13
+# Daily Digest - 2026-08-14
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**botulinuses** - (definition lookup failed: HTTP error response)
+**shackoes** - (definition lookup failed: HTTP error response)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Our eyes are always the same size from birth but our nose and ears never stop growing.
+Rugby, North Dakota is the geographical center of North America.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ Our eyes are always the same size from birth but our nose and ears never stop gr
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Keep your face to the sunshine and you cannot see the shadows." - Helen Keller
+"Extraordinary results happen only when you give the best you have to become the best you can be at your most important work." - Gary Keller
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Aurora and perseids.jpg](https://upload.wikimedia.org/wikipedia/commons/3/31/Aurora_and_perseids.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Galah (Eolophus roseicapilla) female in flight Mount Pleasant.jpg](https://upload.wikimedia.org/wikipedia/commons/0/07/Galah_%28Eolophus_roseicapilla%29_female_in_flight_Mount_Pleasant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Aurora and perseids.jpg**
+**Galah (Eolophus roseicapilla) female in flight Mount Pleasant.jpg**
 
-Stephan Sprinz
+Charles J. Sharp
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Stephan Sprinz
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Video Games - hard]** Which of the following commercial vehicles from Grand Theft Auto IV did NOT reappear in Grand Theft Auto V?
-> Answer: ||Steed||
+**[Science & Nature - easy]**  What is the chemical symbol for Helium?
+> Answer: ||He||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-08-13T07:25:26Z UTC_
+_Last updated: 2026-08-14T07:23:01Z UTC_
