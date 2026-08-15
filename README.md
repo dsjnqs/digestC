@@ -1,11 +1,11 @@
-# Daily Digest - 2026-08-14
+# Daily Digest - 2026-08-15
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**shackoes** - (definition lookup failed: HTTP error response)
+**haphtaroth** *(noun)* - A selection from the books of Nevi'im and Ketuvim of the Tanach, usually corresponding to the week's parashah, publicly read in synagogue following the parashah.
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Rugby, North Dakota is the geographical center of North America.
+One quarter of the bones in your body, are in your feet!
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ Rugby, North Dakota is the geographical center of North America.
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Extraordinary results happen only when you give the best you have to become the best you can be at your most important work." - Gary Keller
+"Man suffers only because he takes seriously what the gods made for fun." - Alan Watts
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Galah (Eolophus roseicapilla) female in flight Mount Pleasant.jpg](https://upload.wikimedia.org/wikipedia/commons/0/07/Galah_%28Eolophus_roseicapilla%29_female_in_flight_Mount_Pleasant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Mattupetty Lake View.jpg](https://upload.wikimedia.org/wikipedia/commons/a/af/Mattupetty_Lake_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Galah (Eolophus roseicapilla) female in flight Mount Pleasant.jpg**
+**Mattupetty Lake View.jpg**
 
-Charles J. Sharp
+Ingo Mehling
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Charles J. Sharp
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Science & Nature - easy]**  What is the chemical symbol for Helium?
-> Answer: ||He||
+**[Sports - hard]** Prior to 2018, which car company is the only Japanese company which won the 24 Hours of Le Mans?
+> Answer: ||Mazda||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-08-14T07:23:01Z UTC_
+_Last updated: 2026-08-15T06:36:29Z UTC_
