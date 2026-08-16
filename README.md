@@ -1,11 +1,11 @@
-# Daily Digest - 2026-08-15
+# Daily Digest - 2026-08-16
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**haphtaroth** *(noun)* - A selection from the books of Nevi'im and Ketuvim of the Tanach, usually corresponding to the week's parashah, publicly read in synagogue following the parashah.
+**hypothec** *(noun)* - In Scotland, a landlord's right over the stocking (cattle, implements, etc.), and crops of his tenant, as security for payment of rent.
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-One quarter of the bones in your body, are in your feet!
+There are 269 steps to the top of the Leaning Tower of Pisa
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ One quarter of the bones in your body, are in your feet!
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Man suffers only because he takes seriously what the gods made for fun." - Alan Watts
+"Motivation is what gets you started. Habit is what keeps you going." - Jim Rohn
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Mattupetty Lake View.jpg](https://upload.wikimedia.org/wikipedia/commons/a/af/Mattupetty_Lake_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Iglesia del convento de Jesús, Setúbal, Portugal, 2021-09-10, DD 04-06 HDR.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e5/Iglesia_del_convento_de_Jes%C3%BAs%2C_Set%C3%BAbal%2C_Portugal%2C_2021-09-10%2C_DD_04-06_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Mattupetty Lake View.jpg**
+**Iglesia del convento de Jesús, Setúbal, Portugal, 2021-09-10, DD 04-06 HDR.jpg**
 
-Ingo Mehling
+Diego Delso
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Ingo Mehling
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Sports - hard]** Prior to 2018, which car company is the only Japanese company which won the 24 Hours of Le Mans?
-> Answer: ||Mazda||
+**[History - medium]** Which Nazi General was known as the "Desert Fox"?
+> Answer: ||Erwin Rommel||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-08-15T06:36:29Z UTC_
+_Last updated: 2026-08-16T06:38:36Z UTC_
