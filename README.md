@@ -1,11 +1,11 @@
-# Daily Digest - 2026-08-16
+# Daily Digest - 2026-08-17
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**hypothec** *(noun)* - In Scotland, a landlord's right over the stocking (cattle, implements, etc.), and crops of his tenant, as security for payment of rent.
+**eche** - (definition lookup failed: HTTP error response)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-There are 269 steps to the top of the Leaning Tower of Pisa
+In 1912 a law passed in Nebraska where drivers in the country at night were required to stop every 150 yards, send up a skyrocket, wait eight minutes for the road to clear before proceeding cautiously, all the while blowing their horn and shooting off flares.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ There are 269 steps to the top of the Leaning Tower of Pisa
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Motivation is what gets you started. Habit is what keeps you going." - Jim Rohn
+"Your happiness is what truly matters most. Do what you have to do in order to be happy." - Brian Tracy
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Iglesia del convento de Jesús, Setúbal, Portugal, 2021-09-10, DD 04-06 HDR.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e5/Iglesia_del_convento_de_Jes%C3%BAs%2C_Set%C3%BAbal%2C_Portugal%2C_2021-09-10%2C_DD_04-06_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Haltern am See, Westruper Heide, Solitärbaum -- 2025 -- 8748.jpg](https://upload.wikimedia.org/wikipedia/commons/d/db/Haltern_am_See%2C_Westruper_Heide%2C_Solit%C3%A4rbaum_--_2025_--_8748.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Iglesia del convento de Jesús, Setúbal, Portugal, 2021-09-10, DD 04-06 HDR.jpg**
+**Haltern am See, Westruper Heide, Solitärbaum -- 2025 -- 8748.jpg**
 
-Diego Delso
+Dietmar Rabich
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Diego Delso
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[History - medium]** Which Nazi General was known as the "Desert Fox"?
-> Answer: ||Erwin Rommel||
+**[Entertainment: Video Games - medium]** In which year did the first Monster Hunter game get released?
+> Answer: ||2004||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-08-16T06:38:36Z UTC_
+_Last updated: 2026-08-17T06:53:21Z UTC_
