@@ -1,11 +1,11 @@
-# Daily Digest - 2026-08-17
+# Daily Digest - 2026-08-18
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**eche** - (definition lookup failed: HTTP error response)
+**undramatically** - (definition lookup failed: HTTP error response)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-In 1912 a law passed in Nebraska where drivers in the country at night were required to stop every 150 yards, send up a skyrocket, wait eight minutes for the road to clear before proceeding cautiously, all the while blowing their horn and shooting off flares.
+The penguin is the only bird that can’t fly but can swim.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ In 1912 a law passed in Nebraska where drivers in the country at night were requ
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Your happiness is what truly matters most. Do what you have to do in order to be happy." - Brian Tracy
+"No one can compete with you on being you. Most of life is a search for who and what needs you the most." - Naval Ravikant
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Haltern am See, Westruper Heide, Solitärbaum -- 2025 -- 8748.jpg](https://upload.wikimedia.org/wikipedia/commons/d/db/Haltern_am_See%2C_Westruper_Heide%2C_Solit%C3%A4rbaum_--_2025_--_8748.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![The Beatles arrive at JFK Airport.jpg](https://upload.wikimedia.org/wikipedia/commons/6/61/The_Beatles_arrive_at_JFK_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Haltern am See, Westruper Heide, Solitärbaum -- 2025 -- 8748.jpg**
+**The Beatles arrive at JFK Airport.jpg**
 
-Dietmar Rabich
+United Press International, photographer unknown
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Dietmar Rabich
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Video Games - medium]** In which year did the first Monster Hunter game get released?
-> Answer: ||2004||
+**[Entertainment: Video Games - medium]** Who is the half-demon character in Divinity: Original Sin 2 who you talk to to transition between acts?
+> Answer: ||Malady||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-08-17T06:53:21Z UTC_
+_Last updated: 2026-08-18T06:41:19Z UTC_
