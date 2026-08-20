@@ -1,11 +1,11 @@
-# Daily Digest - 2026-08-18
+# Daily Digest - 2026-08-20
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**undramatically** - (definition lookup failed: HTTP error response)
+**trustful** *(adjective)* - Trusting; willing to trust.
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-The penguin is the only bird that can’t fly but can swim.
+A palindrome is a sentence or group of sentences that reads the same backwards as it does forward: Ex:  `Red rum, sir, is murder.` `Ma is as selfless as I am.` `Nurse, I spy gypsies. Run!`  `A man, a plan, a canal - Panama.` `He lived as a devil, eh?`
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ The penguin is the only bird that can’t fly but can swim.
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"No one can compete with you on being you. Most of life is a search for who and what needs you the most." - Naval Ravikant
+"No matter how tall the mountain is, it cannot block the sun." - Chinese Proverb
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![The Beatles arrive at JFK Airport.jpg](https://upload.wikimedia.org/wikipedia/commons/6/61/The_Beatles_arrive_at_JFK_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Eilean Donan at Dusk.jpg](https://upload.wikimedia.org/wikipedia/commons/6/6b/Eilean_Donan_at_Dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**The Beatles arrive at JFK Airport.jpg**
+**Eilean Donan at Dusk.jpg**
 
-United Press International, photographer unknown
+Syxaxis Photography
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ United Press International, photographer unknown
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Video Games - medium]** Who is the half-demon character in Divinity: Original Sin 2 who you talk to to transition between acts?
-> Answer: ||Malady||
+**[Entertainment: Video Games - medium]** Which game is NOT part of the Science Adventure series by 5pb. and Nitroplus?
+> Answer: ||Occultic; Nine||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-08-18T06:41:19Z UTC_
+_Last updated: 2026-08-20T06:43:11Z UTC_
