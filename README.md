@@ -1,11 +1,11 @@
-# Daily Digest - 2026-08-20
+# Daily Digest - 2026-08-21
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**trustful** *(adjective)* - Trusting; willing to trust.
+**aliners** - (definition lookup failed: HTTP error response)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-A palindrome is a sentence or group of sentences that reads the same backwards as it does forward: Ex:  `Red rum, sir, is murder.` `Ma is as selfless as I am.` `Nurse, I spy gypsies. Run!`  `A man, a plan, a canal - Panama.` `He lived as a devil, eh?`
+It has been estimated that humans use only 10% of their brain.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ A palindrome is a sentence or group of sentences that reads the same backwards a
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"No matter how tall the mountain is, it cannot block the sun." - Chinese Proverb
+"Listen to the secret sound, the real sound, which is inside you." - Kabir
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Eilean Donan at Dusk.jpg](https://upload.wikimedia.org/wikipedia/commons/6/6b/Eilean_Donan_at_Dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Acro-Show-Villeneuve Infinity-Tumbling 2022-08-21.jpg](https://upload.wikimedia.org/wikipedia/commons/3/36/Acro-Show-Villeneuve_Infinity-Tumbling_2022-08-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Eilean Donan at Dusk.jpg**
+**Acro-Show-Villeneuve Infinity-Tumbling 2022-08-21.jpg**
 
-Syxaxis Photography
+Roy Egloff
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Syxaxis Photography
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Video Games - medium]** Which game is NOT part of the Science Adventure series by 5pb. and Nitroplus?
-> Answer: ||Occultic; Nine||
+**[Entertainment: Music - medium]** What was Raekwon the Chefs debut solo album?
+> Answer: ||Only Built 4 Cuban Linx||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-08-20T06:43:11Z UTC_
+_Last updated: 2026-08-21T06:44:05Z UTC_
