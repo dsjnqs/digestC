@@ -1,11 +1,11 @@
-# Daily Digest - 2026-08-21
+# Daily Digest - 2026-08-22
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**aliners** - (definition lookup failed: HTTP error response)
+**chitterlings** *(noun)* - Small intestine, boiled and fried, usually of a pig. Sometimes prepared with hog maws.
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-It has been estimated that humans use only 10% of their brain.
+Babies are born without knee caps. They don't appear until the child reaches 2-6 years of age.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ It has been estimated that humans use only 10% of their brain.
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Listen to the secret sound, the real sound, which is inside you." - Kabir
+"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more." - Nikola Tesla
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Acro-Show-Villeneuve Infinity-Tumbling 2022-08-21.jpg](https://upload.wikimedia.org/wikipedia/commons/3/36/Acro-Show-Villeneuve_Infinity-Tumbling_2022-08-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![SBB Ce 6-8 II 14253 Wassen - Gurtnellen.jpg](https://upload.wikimedia.org/wikipedia/commons/6/68/SBB_Ce_6-8_II_14253_Wassen_-_Gurtnellen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Acro-Show-Villeneuve Infinity-Tumbling 2022-08-21.jpg**
+**SBB Ce 6-8 II 14253 Wassen - Gurtnellen.jpg**
 
-Roy Egloff
+Kabelleger
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Roy Egloff
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Music - medium]** What was Raekwon the Chefs debut solo album?
-> Answer: ||Only Built 4 Cuban Linx||
+**[History - hard]** What was the original name of New York City?
+> Answer: ||New Amsterdam||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-08-21T06:44:05Z UTC_
+_Last updated: 2026-08-22T06:38:20Z UTC_
