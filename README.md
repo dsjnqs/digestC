@@ -1,11 +1,11 @@
-# Daily Digest - 2026-08-22
+# Daily Digest - 2026-08-23
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**chitterlings** *(noun)* - Small intestine, boiled and fried, usually of a pig. Sometimes prepared with hog maws.
+**blueshift** *(noun)* - A change in the wavelength of light, in which the wavelength is shorter than when it was emitted at the source.
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Babies are born without knee caps. They don't appear until the child reaches 2-6 years of age.
+For some time Frederic Chopin, the composer and pianist, wore a beard on only one side of his face, explaining: "It does not matter, my audience sees only my right side."
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ Babies are born without knee caps. They don't appear until the child reaches 2-6
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more." - Nikola Tesla
+"The biggest adventure you can ever take is to live the life of your dreams." - Oprah Winfrey
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![SBB Ce 6-8 II 14253 Wassen - Gurtnellen.jpg](https://upload.wikimedia.org/wikipedia/commons/6/68/SBB_Ce_6-8_II_14253_Wassen_-_Gurtnellen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![017 Hyacinth macaw flying in Encontro das Águas State Park Photo by Giles Laurent.jpg](https://upload.wikimedia.org/wikipedia/commons/1/1d/017_Hyacinth_macaw_flying_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**SBB Ce 6-8 II 14253 Wassen - Gurtnellen.jpg**
+**017 Hyacinth macaw flying in Encontro das Águas State Park Photo by Giles Laurent.jpg**
 
-Kabelleger
+Giles Laurent
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Kabelleger
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[History - hard]** What was the original name of New York City?
-> Answer: ||New Amsterdam||
+**[Entertainment: Books - easy]** Who is the author of the "A Song of Ice and Fire" book series, starting with "A Game of Thrones"?
+> Answer: ||George R. R. Martin||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-08-22T06:38:20Z UTC_
+_Last updated: 2026-08-23T06:39:17Z UTC_
