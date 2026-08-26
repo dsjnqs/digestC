@@ -1,11 +1,11 @@
-# Daily Digest - 2026-08-25
+# Daily Digest - 2026-08-26
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**prude** *(noun)* - A person who is or tries to be excessively proper, especially one who is easily offended by matters of a sexual nature.
+**trilling** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-The only 15-letter word that can be spelled without repeating a letter is uncopyrightable.
+In 1933, Mickey Mouse, an animated cartoon character, received 800,000 fan letters.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ The only 15-letter word that can be spelled without repeating a letter is uncopy
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience." - Denis Waitley
+"A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists." - Charles Dickens
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Seven Sisters 3.jpg](https://upload.wikimedia.org/wikipedia/commons/2/2f/Seven_Sisters_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![The Burning of the USS Missouri in Gibraltar.jpg](https://upload.wikimedia.org/wikipedia/commons/8/8b/The_Burning_of_the_USS_Missouri_in_Gibraltar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Seven Sisters 3.jpg**
+**The Burning of the USS Missouri in Gibraltar.jpg**
 
-kallerna
+Thomas Goldsworthy Dutton / Edward Duncan / George Pechell Mends / Adam Cuerden
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ kallerna
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Video Games - medium]** The '64' in the Nintendo-64 console refers to what?
-> Answer: ||The bits in the CPU architecture||
+**[Celebrities - easy]** Gwyneth Paltrow has a daughter named...?
+> Answer: ||Apple||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-08-25T06:43:48Z UTC_
+_Last updated: 2026-08-26T06:47:18Z UTC_
