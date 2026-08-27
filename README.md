@@ -1,11 +1,11 @@
-# Daily Digest - 2026-08-26
+# Daily Digest - 2026-08-27
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**trilling** - (definition lookup failed: Timeout was reached)
+**dabsters** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-In 1933, Mickey Mouse, an animated cartoon character, received 800,000 fan letters.
+The Eisenhower interstate system requires that one mile in every five must be straight in case of war or emergency, they could be used as airstrips.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ In 1933, Mickey Mouse, an animated cartoon character, received 800,000 fan lette
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists." - Charles Dickens
+"Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us." - Richard Bach
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![The Burning of the USS Missouri in Gibraltar.jpg](https://upload.wikimedia.org/wikipedia/commons/8/8b/The_Burning_of_the_USS_Missouri_in_Gibraltar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Lago Coldai 6.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b4/Lago_Coldai_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**The Burning of the USS Missouri in Gibraltar.jpg**
+**Lago Coldai 6.jpg**
 
-Thomas Goldsworthy Dutton / Edward Duncan / George Pechell Mends / Adam Cuerden
+kallerna
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Thomas Goldsworthy Dutton / Edward Duncan / George Pechell Mends / Adam Cuerden
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Celebrities - easy]** Gwyneth Paltrow has a daughter named...?
-> Answer: ||Apple||
+**[Entertainment: Japanese Anime & Manga - easy]** In "Future Diary", what is the name of Yuno Gasai's Phone Diary?
+> Answer: ||Yukiteru Diary||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-08-26T06:47:18Z UTC_
+_Last updated: 2026-08-27T17:21:34Z UTC_
