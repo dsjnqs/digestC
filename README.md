@@ -1,11 +1,11 @@
-# Daily Digest - 2026-08-28
+# Daily Digest - 2026-08-29
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**nonblack** - (definition lookup failed: Timeout was reached)
+**legislatorial** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Samuel Clemens (Mark Twain) was born on and died on days when Halley’s Comet can be seen.
+Sir Isaac Newton was only 23 years old when he discovered the law of universal gravitation.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ Samuel Clemens (Mark Twain) was born on and died on days when Halley’s Comet c
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Whatever you decide to do, make sure it makes you happy." - Paulo Coelho
+"Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment." - Celestine Chua
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Short-toed Snake-Eagle in Bhigwan August 2025 by Tisha Mukherjee 01.jpg](https://upload.wikimedia.org/wikipedia/commons/7/7d/Short-toed_Snake-Eagle_in_Bhigwan_August_2025_by_Tisha_Mukherjee_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Bloemknop van een blauwe knoop (Succisa pratensis). 29-08-2023. (d.j.b).jpg](https://upload.wikimedia.org/wikipedia/commons/4/4a/Bloemknop_van_een_blauwe_knoop_%28Succisa_pratensis%29._29-08-2023._%28d.j.b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Short-toed Snake-Eagle in Bhigwan August 2025 by Tisha Mukherjee 01.jpg**
+**Bloemknop van een blauwe knoop (Succisa pratensis). 29-08-2023. (d.j.b).jpg**
 
-Tisha Mukherjee
+Dominicus Johannes Bergsma
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Tisha Mukherjee
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Art - medium]** Which artist painted &ldquo;The Treachery of Images,&rdquo; a painting of a pipe with the description "this is not a pipe"?
-> Answer: ||Magritte||
+**[Entertainment: Television - medium]** How long was Ken Jennings' win streak on Jeopardy?
+> Answer: ||74||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-08-28T18:14:23Z UTC_
+_Last updated: 2026-08-29T12:21:11Z UTC_
