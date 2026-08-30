@@ -1,11 +1,11 @@
-# Daily Digest - 2026-08-29
+# Daily Digest - 2026-08-30
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**legislatorial** - (definition lookup failed: Timeout was reached)
+**blockages** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Sir Isaac Newton was only 23 years old when he discovered the law of universal gravitation.
+Los Angeles` full name `El Pueblo de Nuestra Senora la Reina de Los Angeles de Porciuncula` is reduced to 3.63% of its size in the abbreviation `L.A.`.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ Sir Isaac Newton was only 23 years old when he discovered the law of universal g
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment." - Celestine Chua
+"Keep your eyes on the goal, and just keep taking the next step towards completing it." - John Carmack
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Bloemknop van een blauwe knoop (Succisa pratensis). 29-08-2023. (d.j.b).jpg](https://upload.wikimedia.org/wikipedia/commons/4/4a/Bloemknop_van_een_blauwe_knoop_%28Succisa_pratensis%29._29-08-2023._%28d.j.b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![006 Toco toucan in Encontro das Águas State Park Photo by Giles Laurent.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b0/006_Toco_toucan_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Bloemknop van een blauwe knoop (Succisa pratensis). 29-08-2023. (d.j.b).jpg**
+**006 Toco toucan in Encontro das Águas State Park Photo by Giles Laurent.jpg**
 
-Dominicus Johannes Bergsma
+Giles Laurent
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Dominicus Johannes Bergsma
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Television - medium]** How long was Ken Jennings' win streak on Jeopardy?
-> Answer: ||74||
+**[Entertainment: Music - medium]** Which artist released his third and final studio album 'Electric Ladyland' before his death in 1970?
+> Answer: ||Jimi Hendrix||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-08-29T12:21:11Z UTC_
+_Last updated: 2026-08-30T11:20:32Z UTC_
