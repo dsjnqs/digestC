@@ -1,11 +1,11 @@
-# Daily Digest - 2026-08-30
+# Daily Digest - 2026-08-31
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**blockages** - (definition lookup failed: Timeout was reached)
+**dramatisation** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Los Angeles` full name `El Pueblo de Nuestra Senora la Reina de Los Angeles de Porciuncula` is reduced to 3.63% of its size in the abbreviation `L.A.`.
+A cat's jaw cannot move sideways.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,9 @@ Los Angeles` full name `El Pueblo de Nuestra Senora la Reina de Los Angeles de P
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Keep your eyes on the goal, and just keep taking the next step towards completing it." - John Carmack
+"The only way to do great work is to love what you do." - Steve Jobs
+
+_(Live lookup failed: Timeout was reached - showing a fallback quote.)_
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +34,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![006 Toco toucan in Encontro das Águas State Park Photo by Giles Laurent.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b0/006_Toco_toucan_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Devonshire Lodge (Low-Martin House), Windsor, Ontario, 2025-08-31 01.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e8/Devonshire_Lodge_%28Low-Martin_House%29%2C_Windsor%2C_Ontario%2C_2025-08-31_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**006 Toco toucan in Encontro das Águas State Park Photo by Giles Laurent.jpg**
+**Devonshire Lodge (Low-Martin House), Windsor, Ontario, 2025-08-31 01.jpg**
 
-Giles Laurent
+Chris Woodrich
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +47,8 @@ Giles Laurent
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Music - medium]** Which artist released his third and final studio album 'Electric Ladyland' before his death in 1970?
-> Answer: ||Jimi Hendrix||
+**[Entertainment: Video Games - hard]** In World of Warcraft lore, who organized the creation of the Paladins?
+> Answer: ||Alonsus Faol||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +65,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-08-30T11:20:32Z UTC_
+_Last updated: 2026-08-31T12:48:40Z UTC_
