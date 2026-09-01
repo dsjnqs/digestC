@@ -1,11 +1,11 @@
-# Daily Digest - 2026-08-31
+# Daily Digest - 2026-09-01
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**dramatisation** - (definition lookup failed: Timeout was reached)
+**gombroon** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-A cat's jaw cannot move sideways.
+A blue whales heart only beats nine times per minute.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,9 +23,7 @@ A cat's jaw cannot move sideways.
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"The only way to do great work is to love what you do." - Steve Jobs
-
-_(Live lookup failed: Timeout was reached - showing a fallback quote.)_
+"Stop wasting time defending your problems and work on addressing them instead." - Celestine Chua
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,11 +32,11 @@ _(Live lookup failed: Timeout was reached - showing a fallback quote.)_
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Devonshire Lodge (Low-Martin House), Windsor, Ontario, 2025-08-31 01.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e8/Devonshire_Lodge_%28Low-Martin_House%29%2C_Windsor%2C_Ontario%2C_2025-08-31_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Wreck of Cabo de Santa Maria, 2010 December - 4.jpg](https://upload.wikimedia.org/wikipedia/commons/4/47/Wreck_of_Cabo_de_Santa_Maria%2C_2010_December_-_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Devonshire Lodge (Low-Martin House), Windsor, Ontario, 2025-08-31 01.jpg**
+**Wreck of Cabo de Santa Maria, 2010 December - 4.jpg**
 
-Chris Woodrich
+Ximonic (Simo Räsänen)
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -47,8 +45,8 @@ Chris Woodrich
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Video Games - hard]** In World of Warcraft lore, who organized the creation of the Paladins?
-> Answer: ||Alonsus Faol||
+**[Entertainment: Japanese Anime & Manga - medium]** What is the name of the final villain in the manga series "Bleach"?
+> Answer: ||Yhwach||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -65,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-08-31T12:48:40Z UTC_
+_Last updated: 2026-09-01T11:10:11Z UTC_
