@@ -1,11 +1,11 @@
-# Daily Digest - 2026-09-01
+# Daily Digest - 2026-09-02
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**gombroon** - (definition lookup failed: Timeout was reached)
+**britzska** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-A blue whales heart only beats nine times per minute.
+A duck`s quack doesn`t echo, and no one knows why.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ A blue whales heart only beats nine times per minute.
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Stop wasting time defending your problems and work on addressing them instead." - Celestine Chua
+"Force has no place where there is need of skill." - Herodotus
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Wreck of Cabo de Santa Maria, 2010 December - 4.jpg](https://upload.wikimedia.org/wikipedia/commons/4/47/Wreck_of_Cabo_de_Santa_Maria%2C_2010_December_-_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Pez estandarte del mar Rojo (Heniochus intermedius), mar Rojo, Egipto, 2023-04-15, DD 36.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a6/Pez_estandarte_del_mar_Rojo_%28Heniochus_intermedius%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-15%2C_DD_36.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Wreck of Cabo de Santa Maria, 2010 December - 4.jpg**
+**Pez estandarte del mar Rojo (Heniochus intermedius), mar Rojo, Egipto, 2023-04-15, DD 36.jpg**
 
-Ximonic (Simo Räsänen)
+Diego Delso
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Ximonic (Simo Räsänen)
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Japanese Anime & Manga - medium]** What is the name of the final villain in the manga series "Bleach"?
-> Answer: ||Yhwach||
+**[Entertainment: Video Games - hard]** How many total monsters appear in Monster Hunter Generations?
+> Answer: ||105||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-09-01T11:10:11Z UTC_
+_Last updated: 2026-09-02T10:42:46Z UTC_
