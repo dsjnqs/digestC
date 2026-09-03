@@ -1,11 +1,11 @@
-# Daily Digest - 2026-09-02
+# Daily Digest - 2026-09-03
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**britzska** - (definition lookup failed: Timeout was reached)
+**eradicating** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,9 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-A duck`s quack doesn`t echo, and no one knows why.
+Honey never spoils - archaeologists have found 3,000-year-old edible honey in Egyptian tombs.
+
+_(Live lookup failed: HTTP error response - showing a fallback fact.)_
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +25,7 @@ A duck`s quack doesn`t echo, and no one knows why.
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Force has no place where there is need of skill." - Herodotus
+"If you don't find the time, if you don't do the work, you don't get the results." - Arnold Schwarzenegger
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +34,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Pez estandarte del mar Rojo (Heniochus intermedius), mar Rojo, Egipto, 2023-04-15, DD 36.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a6/Pez_estandarte_del_mar_Rojo_%28Heniochus_intermedius%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-15%2C_DD_36.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Almabtrieb Freiburger Alpe - Anna schmückt ein Schild mit dem Namen der Alpe, der Max unterstützt seine Mama.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b9/Almabtrieb_Freiburger_Alpe_-_Anna_schm%C3%BCckt_ein_Schild_mit_dem_Namen_der_Alpe%2C_der_Max_unterst%C3%BCtzt_seine_Mama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Pez estandarte del mar Rojo (Heniochus intermedius), mar Rojo, Egipto, 2023-04-15, DD 36.jpg**
+**Almabtrieb Freiburger Alpe - Anna schmückt ein Schild mit dem Namen der Alpe, der Max unterstützt seine Mama.jpg**
 
-Diego Delso
+Jan Czeczotka
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +47,8 @@ Diego Delso
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Video Games - hard]** How many total monsters appear in Monster Hunter Generations?
-> Answer: ||105||
+**[General Knowledge - hard]** The words "bungalow" and "shampoo" originate from the languages of which country?
+> Answer: ||India||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +65,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-09-02T10:42:46Z UTC_
+_Last updated: 2026-09-03T10:44:20Z UTC_
