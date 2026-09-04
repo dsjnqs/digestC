@@ -1,11 +1,11 @@
-# Daily Digest - 2026-09-03
+# Daily Digest - 2026-09-04
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**eradicating** - (definition lookup failed: Timeout was reached)
+**priviest** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,9 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Honey never spoils - archaeologists have found 3,000-year-old edible honey in Egyptian tombs.
-
-_(Live lookup failed: HTTP error response - showing a fallback fact.)_
+A whale`s penis is called a dork.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +23,7 @@ _(Live lookup failed: HTTP error response - showing a fallback fact.)_
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"If you don't find the time, if you don't do the work, you don't get the results." - Arnold Schwarzenegger
+"Do good by stealth, and blush to find it fame." - Alexander Pope
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Almabtrieb Freiburger Alpe - Anna schmückt ein Schild mit dem Namen der Alpe, der Max unterstützt seine Mama.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b9/Almabtrieb_Freiburger_Alpe_-_Anna_schm%C3%BCckt_ein_Schild_mit_dem_Namen_der_Alpe%2C_der_Max_unterst%C3%BCtzt_seine_Mama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Norderney, Marienhöhe -- 2025 -- 9295-9.jpg](https://upload.wikimedia.org/wikipedia/commons/f/fe/Norderney%2C_Marienh%C3%B6he_--_2025_--_9295-9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Almabtrieb Freiburger Alpe - Anna schmückt ein Schild mit dem Namen der Alpe, der Max unterstützt seine Mama.jpg**
+**Norderney, Marienhöhe -- 2025 -- 9295-9.jpg**
 
-Jan Czeczotka
+Dietmar Rabich
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -47,8 +45,8 @@ Jan Czeczotka
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[General Knowledge - hard]** The words "bungalow" and "shampoo" originate from the languages of which country?
-> Answer: ||India||
+**[Entertainment: Music - medium]** The 'In the Flesh' tour was used in support of what Pink Floyd album?
+> Answer: ||Animals||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -65,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-09-03T10:44:20Z UTC_
+_Last updated: 2026-09-04T10:41:05Z UTC_
