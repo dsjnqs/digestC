@@ -1,11 +1,11 @@
-# Daily Digest - 2026-09-04
+# Daily Digest - 2026-09-05
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**priviest** - (definition lookup failed: Timeout was reached)
+**disaccustoms** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-A whale`s penis is called a dork.
+The average lead pencil will draw a line 35 miles long or write approximately 50,000 English words.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ A whale`s penis is called a dork.
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Do good by stealth, and blush to find it fame." - Alexander Pope
+"However difficult life may seem, there is always something you can do and succeed at." - Stephen Hawking
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Norderney, Marienhöhe -- 2025 -- 9295-9.jpg](https://upload.wikimedia.org/wikipedia/commons/f/fe/Norderney%2C_Marienh%C3%B6he_--_2025_--_9295-9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Tallinna vanalinn päikesetõusu ajal.jpg](https://upload.wikimedia.org/wikipedia/commons/6/64/Tallinna_vanalinn_p%C3%A4ikeset%C3%B5usu_ajal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Norderney, Marienhöhe -- 2025 -- 9295-9.jpg**
+**Tallinna vanalinn päikesetõusu ajal.jpg**
 
-Dietmar Rabich
+Hendrik Mändla
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Dietmar Rabich
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Music - medium]** The 'In the Flesh' tour was used in support of what Pink Floyd album?
-> Answer: ||Animals||
+**[Entertainment: Film - medium]** In the 1979 British film "Quadrophenia" what is the name of the seaside city the mods are visiting?
+> Answer: ||Brighton||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-09-04T10:41:05Z UTC_
+_Last updated: 2026-09-05T10:00:57Z UTC_
