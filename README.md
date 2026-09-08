@@ -1,11 +1,11 @@
-# Daily Digest - 2026-09-07
+# Daily Digest - 2026-09-08
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**magnesites** - (definition lookup failed: Timeout was reached)
+**cesti** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-It's illegal to spit on the sidewalk in Norfolk, Virginia.
+In the Philippine jungle, the yo-yo was first used as a weapon.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ It's illegal to spit on the sidewalk in Norfolk, Virginia.
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"The greatest treasures are those invisible to the eye but found by the heart." - Judy Garland
+"High thoughts must have high language." - Aristophanes
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Gary Plant Tubular Steel Corporation.jpg](https://upload.wikimedia.org/wikipedia/commons/7/7c/Gary_Plant_Tubular_Steel_Corporation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Sunset over Trommekilen from Norrkila 6.jpg](https://upload.wikimedia.org/wikipedia/commons/1/1c/Sunset_over_Trommekilen_from_Norrkila_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Gary Plant Tubular Steel Corporation.jpg**
+**Sunset over Trommekilen from Norrkila 6.jpg**
 
-M. Marshall
+W.carter
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ M. Marshall
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Geography - easy]** What state is the largest state of the United States of America?
-> Answer: ||Alaska||
+**[History - medium]** What is the bloodiest event in United States history, in terms of casualties?
+> Answer: ||Battle of Antietam||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-09-07T11:40:49Z UTC_
+_Last updated: 2026-09-08T10:39:45Z UTC_
