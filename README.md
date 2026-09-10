@@ -1,11 +1,11 @@
-# Daily Digest - 2026-09-09
+# Daily Digest - 2026-09-10
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**coigne** - (definition lookup failed: Timeout was reached)
+**blimey** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-A pound of houseflies contains more protein than a pound of beef
+Starfish haven`t got brains.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ A pound of houseflies contains more protein than a pound of beef
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"We are all like the bright moon, we still have our darker side." - Kahlil Gibran
+"Simple words, repeated daily, can change your life." - Maxime Lagace
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![189 Red-and-green macaw couple flying in Chapada dos Guimarães National Park Photo by Giles Laurent.jpg](https://upload.wikimedia.org/wikipedia/commons/5/5d/189_Red-and-green_macaw_couple_flying_in_Chapada_dos_Guimar%C3%A3es_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Barred Buttonquail in Bhigwan August 2025 by Tisha Mukherjee 17.jpg](https://upload.wikimedia.org/wikipedia/commons/2/24/Barred_Buttonquail_in_Bhigwan_August_2025_by_Tisha_Mukherjee_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**189 Red-and-green macaw couple flying in Chapada dos Guimarães National Park Photo by Giles Laurent.jpg**
+**Barred Buttonquail in Bhigwan August 2025 by Tisha Mukherjee 17.jpg**
 
-Giles Laurent
+Tisha Mukherjee
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Giles Laurent
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Music - hard]** Who is a pioneer of "Minimal Music" in 1960s?
-> Answer: ||Steve Reich||
+**[General Knowledge - easy]** What do sailors call the front of a boat?
+> Answer: ||Bow||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-09-09T10:49:18Z UTC_
+_Last updated: 2026-09-10T10:42:24Z UTC_
