@@ -1,11 +1,11 @@
-# Daily Digest - 2026-09-10
+# Daily Digest - 2026-09-11
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**blimey** - (definition lookup failed: Timeout was reached)
+**palpation** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Starfish haven`t got brains.
+Camels chew in a figure 8 pattern.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ Starfish haven`t got brains.
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Simple words, repeated daily, can change your life." - Maxime Lagace
+"It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose." - Ming-Dao Deng
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Barred Buttonquail in Bhigwan August 2025 by Tisha Mukherjee 17.jpg](https://upload.wikimedia.org/wikipedia/commons/2/24/Barred_Buttonquail_in_Bhigwan_August_2025_by_Tisha_Mukherjee_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Baikal, Cape Burhan, Olkhon Island, Lake Baikal, Russia.jpg](https://upload.wikimedia.org/wikipedia/commons/0/0a/Baikal%2C_Cape_Burhan%2C_Olkhon_Island%2C_Lake_Baikal%2C_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Barred Buttonquail in Bhigwan August 2025 by Tisha Mukherjee 17.jpg**
+**Baikal, Cape Burhan, Olkhon Island, Lake Baikal, Russia.jpg**
 
-Tisha Mukherjee
+Vyacheslav Argenberg
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Tisha Mukherjee
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[General Knowledge - easy]** What do sailors call the front of a boat?
-> Answer: ||Bow||
+**[General Knowledge - easy]** Which of the following presidents is not on Mount Rushmore?
+> Answer: ||John F. Kennedy||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-09-10T10:42:24Z UTC_
+_Last updated: 2026-09-11T10:41:03Z UTC_
