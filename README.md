@@ -1,11 +1,11 @@
-# Daily Digest - 2026-09-12
+# Daily Digest - 2026-09-13
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**pads** - (definition lookup failed: Timeout was reached)
+**correctest** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,9 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Humans use a total of 72 different muscles in speech.
+Honey never spoils - archaeologists have found 3,000-year-old edible honey in Egyptian tombs.
+
+_(Live lookup failed: HTTP error response - showing a fallback fact.)_
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +25,7 @@ Humans use a total of 72 different muscles in speech.
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"He who leaves the game wins it." - Nicolas Chamfort
+"Everyday is a second chance." - Unknown
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +34,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Sankt Olofs kyrkoruin september 2013 01.jpg](https://upload.wikimedia.org/wikipedia/commons/9/9e/Sankt_Olofs_kyrkoruin_september_2013_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Breil-Brigels. (actm) 02.jpg](https://upload.wikimedia.org/wikipedia/commons/f/fa/Breil-Brigels._%28actm%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Sankt Olofs kyrkoruin september 2013 01.jpg**
+**Breil-Brigels. (actm) 02.jpg**
 
-Arild Vågen
+Agnes Monkelbaan
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +47,8 @@ Arild Vågen
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Video Games - hard]** How many total monsters appear in Monster Hunter Generations?
-> Answer: ||105||
+**[Geography - medium]** The formerly East-Prussian city of K&ouml;nigsberg is known as which Russian City today?
+> Answer: ||Kaliningrad||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +65,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-09-12T10:10:11Z UTC_
+_Last updated: 2026-09-13T11:09:35Z UTC_
