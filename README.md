@@ -1,11 +1,11 @@
-# Daily Digest - 2026-09-13
+# Daily Digest - 2026-09-14
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**correctest** - (definition lookup failed: Timeout was reached)
+**evolution** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,9 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Honey never spoils - archaeologists have found 3,000-year-old edible honey in Egyptian tombs.
-
-_(Live lookup failed: HTTP error response - showing a fallback fact.)_
+Only female mosquito’s` bite and most are attracted to the color blue twice as much as to any other color.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +23,7 @@ _(Live lookup failed: HTTP error response - showing a fallback fact.)_
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Everyday is a second chance." - Unknown
+"If you spend too much time thinking about a thing, you'll never get it done." - Bruce Lee
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Breil-Brigels. (actm) 02.jpg](https://upload.wikimedia.org/wikipedia/commons/f/fa/Breil-Brigels._%28actm%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Oregon National Historic Trail in Wyoming.jpg](https://upload.wikimedia.org/wikipedia/commons/7/7a/Oregon_National_Historic_Trail_in_Wyoming.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Breil-Brigels. (actm) 02.jpg**
+**Oregon National Historic Trail in Wyoming.jpg**
 
-Agnes Monkelbaan
+Bureau  of Land Management
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -47,8 +45,8 @@ Agnes Monkelbaan
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Geography - medium]** The formerly East-Prussian city of K&ouml;nigsberg is known as which Russian City today?
-> Answer: ||Kaliningrad||
+**[Entertainment: Music - medium]** Which Toronto landmark was featured on the cover art of Canadian rapper Drake's 2016 album "Views"?
+> Answer: ||CN Tower||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -65,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-09-13T11:09:35Z UTC_
+_Last updated: 2026-09-14T11:54:53Z UTC_
