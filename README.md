@@ -1,11 +1,11 @@
-# Daily Digest - 2026-09-15
+# Daily Digest - 2026-09-16
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**continentals** - (definition lookup failed: Timeout was reached)
+**bountifulness** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-The word "Checkmate" in chess comes from the Persian phrase "Shah Mat," which means "the king is dead."
+Lithuania has the highest suicide rate in the world.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ The word "Checkmate" in chess comes from the Persian phrase "Shah Mat," which me
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Knowing yourself is the beginning of all wisdom." - Aristotle
+"Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new." - Brian Tracy
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Iglesia del colegio de los Jesuitas, Ponta Delgada, isla de San Miguel, Azores, Portugal, 2020-07-30, DD 09-11 HDR.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e8/Iglesia_del_colegio_de_los_Jesuitas%2C_Ponta_Delgada%2C_isla_de_San_Miguel%2C_Azores%2C_Portugal%2C_2020-07-30%2C_DD_09-11_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Eurasian coot (Fulica atra) with chicks.jpg](https://upload.wikimedia.org/wikipedia/commons/e/ea/Eurasian_coot_%28Fulica_atra%29_with_chicks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Iglesia del colegio de los Jesuitas, Ponta Delgada, isla de San Miguel, Azores, Portugal, 2020-07-30, DD 09-11 HDR.jpg**
+**Eurasian coot (Fulica atra) with chicks.jpg**
 
-Diego Delso
+Charles J. Sharp
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Diego Delso
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Music - medium]** Cryoshell, known for "Creeping in My Soul" did the advertising music for what Lego Theme?
-> Answer: ||Bionicle||
+**[Animals - easy]** How many legs do butterflies have?
+> Answer: ||6||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-09-15T11:10:17Z UTC_
+_Last updated: 2026-09-16T10:54:23Z UTC_
