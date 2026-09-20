@@ -1,11 +1,11 @@
-# Daily Digest - 2026-09-19
+# Daily Digest - 2026-09-20
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**verdin** - (definition lookup failed: Timeout was reached)
+**epicalyx** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Every time you lick a stamp, you consume 1/10 of a calorie.
+The state of Florida is bigger than England!
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ Every time you lick a stamp, you consume 1/10 of a calorie.
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Make your mind your own business." - Jack Butcher
+"A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road." - Henry Ward Beecher
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Zitting Cisticola in Bhigwan August 2025 by Tisha Mukherjee 01.jpg](https://upload.wikimedia.org/wikipedia/commons/0/0e/Zitting_Cisticola_in_Bhigwan_August_2025_by_Tisha_Mukherjee_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Bloeiwijze van een Rostrinucula dependens. 11-10-2025. (d.j.b).jpg](https://upload.wikimedia.org/wikipedia/commons/8/80/Bloeiwijze_van_een_Rostrinucula_dependens._11-10-2025._%28d.j.b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Zitting Cisticola in Bhigwan August 2025 by Tisha Mukherjee 01.jpg**
+**Bloeiwijze van een Rostrinucula dependens. 11-10-2025. (d.j.b).jpg**
 
-Tisha Mukherjee
+Dominicus Johannes Bergsma.
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Tisha Mukherjee
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Musicals & Theatres - medium]** The World Chess Championship in Chess, Act 1 is set in which Italian city?
-> Answer: ||Merano||
+**[Sports - medium]** Which soccer team won the Copa Am&eacute;rica Centenario 2016?
+> Answer: ||Chile||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-09-19T10:23:09Z UTC_
+_Last updated: 2026-09-20T10:42:34Z UTC_
