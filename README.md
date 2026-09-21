@@ -1,11 +1,11 @@
-# Daily Digest - 2026-09-20
+# Daily Digest - 2026-09-21
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**epicalyx** - (definition lookup failed: Timeout was reached)
+**wormils** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-The state of Florida is bigger than England!
+William Marston engineered one of the earliest forms of the polygraph in the early 1900`s. Later he went on to create the comic strip Wonder Woman, a story about a displaced Amazon princess who forces anyone caught in her magic lasso to tell the truth
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ The state of Florida is bigger than England!
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road." - Henry Ward Beecher
+"The smallest act of kindness is worth more than the greatest intention." - Kahlil Gibran
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Bloeiwijze van een Rostrinucula dependens. 11-10-2025. (d.j.b).jpg](https://upload.wikimedia.org/wikipedia/commons/8/80/Bloeiwijze_van_een_Rostrinucula_dependens._11-10-2025._%28d.j.b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Chief Joseph by Edward Sheriff Curtis.jpg](https://upload.wikimedia.org/wikipedia/commons/5/59/Chief_Joseph_by_Edward_Sheriff_Curtis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Bloeiwijze van een Rostrinucula dependens. 11-10-2025. (d.j.b).jpg**
+**Chief Joseph by Edward Sheriff Curtis.jpg**
 
-Dominicus Johannes Bergsma.
+Edward S. Curtis / Adam Cuerden
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Dominicus Johannes Bergsma.
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Sports - medium]** Which soccer team won the Copa Am&eacute;rica Centenario 2016?
-> Answer: ||Chile||
+**[Science & Nature - easy]** How many chromosomes are in your body cells?
+> Answer: ||23||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-09-20T10:42:34Z UTC_
+_Last updated: 2026-09-21T12:06:10Z UTC_
