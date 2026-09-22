@@ -1,11 +1,11 @@
-# Daily Digest - 2026-09-21
+# Daily Digest - 2026-09-22
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**wormils** - (definition lookup failed: Timeout was reached)
+**cousin** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-William Marston engineered one of the earliest forms of the polygraph in the early 1900`s. Later he went on to create the comic strip Wonder Woman, a story about a displaced Amazon princess who forces anyone caught in her magic lasso to tell the truth
+A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ William Marston engineered one of the earliest forms of the polygraph in the ear
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"The smallest act of kindness is worth more than the greatest intention." - Kahlil Gibran
+"Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself." - Samuel Butler
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Chief Joseph by Edward Sheriff Curtis.jpg](https://upload.wikimedia.org/wikipedia/commons/5/59/Chief_Joseph_by_Edward_Sheriff_Curtis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Beach of Cape Fiolent, Crimea.jpg](https://upload.wikimedia.org/wikipedia/commons/4/45/Beach_of_Cape_Fiolent%2C_Crimea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Chief Joseph by Edward Sheriff Curtis.jpg**
+**Beach of Cape Fiolent, Crimea.jpg**
 
-Edward S. Curtis / Adam Cuerden
+Vyacheslav Argenberg
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Edward S. Curtis / Adam Cuerden
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Science & Nature - easy]** How many chromosomes are in your body cells?
-> Answer: ||23||
+**[Entertainment: Japanese Anime & Manga - medium]** In the "Sailor Moon" series, what is Sailor Jupiter's civilian name?
+> Answer: ||Makoto Kino||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-09-21T12:06:10Z UTC_
+_Last updated: 2026-09-22T11:01:25Z UTC_
