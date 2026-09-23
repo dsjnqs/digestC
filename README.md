@@ -1,11 +1,11 @@
-# Daily Digest - 2026-09-22
+# Daily Digest - 2026-09-23
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**cousin** - (definition lookup failed: Timeout was reached)
+**gasted** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop.
+Arizona was the last of the 48 adjoining continental states to enter the Union.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ A full-loaded supertanker traveling at normal speed takes at least 20 minutes to
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself." - Samuel Butler
+"When we strive to become better than we are, everything around us becomes better, too." - Paulo Coelho
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Beach of Cape Fiolent, Crimea.jpg](https://upload.wikimedia.org/wikipedia/commons/4/45/Beach_of_Cape_Fiolent%2C_Crimea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Zabytkowa cerkiew wpisana na listę UNESCO.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d9/Zabytkowa_cerkiew_wpisana_na_list%C4%99_UNESCO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Beach of Cape Fiolent, Crimea.jpg**
+**Zabytkowa cerkiew wpisana na listę UNESCO.jpg**
 
-Vyacheslav Argenberg
+Piter329c
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Vyacheslav Argenberg
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Japanese Anime & Manga - medium]** In the "Sailor Moon" series, what is Sailor Jupiter's civilian name?
-> Answer: ||Makoto Kino||
+**[Geography - medium]** How many countries are inside the United Kingdom?
+> Answer: ||Four||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-09-22T11:01:25Z UTC_
+_Last updated: 2026-09-23T10:50:47Z UTC_
