@@ -1,11 +1,11 @@
-# Daily Digest - 2026-09-23
+# Daily Digest - 2026-09-24
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**gasted** - (definition lookup failed: Timeout was reached)
+**dhourra** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Arizona was the last of the 48 adjoining continental states to enter the Union.
+Ancient Egyptian priests would pluck every hair from their bodies.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ Arizona was the last of the 48 adjoining continental states to enter the Union.
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"When we strive to become better than we are, everything around us becomes better, too." - Paulo Coelho
+"You are what you believe in. You become that which you believe you can become." - Bhagavad Gita
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Zabytkowa cerkiew wpisana na listę UNESCO.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d9/Zabytkowa_cerkiew_wpisana_na_list%C4%99_UNESCO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Violet-backed starling (Cinnyricinclus leucogaster verreauxi) female.jpg](https://upload.wikimedia.org/wikipedia/commons/c/c6/Violet-backed_starling_%28Cinnyricinclus_leucogaster_verreauxi%29_female.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Zabytkowa cerkiew wpisana na listę UNESCO.jpg**
+**Violet-backed starling (Cinnyricinclus leucogaster verreauxi) female.jpg**
 
-Piter329c
+Charles J. Sharp
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Piter329c
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Geography - medium]** How many countries are inside the United Kingdom?
-> Answer: ||Four||
+**[Entertainment: Video Games - medium]** Which of these songs does NOT play during the Ruins segments of the 2015 game "Undertale"?
+> Answer: ||Another Medium||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-09-23T10:50:47Z UTC_
+_Last updated: 2026-09-24T11:10:38Z UTC_
