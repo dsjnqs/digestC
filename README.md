@@ -1,11 +1,11 @@
-# Daily Digest - 2026-09-24
+# Daily Digest - 2026-09-25
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**dhourra** - (definition lookup failed: Timeout was reached)
+**codified** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Ancient Egyptian priests would pluck every hair from their bodies.
+There is no solid proof of who built the Taj Mahal.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ Ancient Egyptian priests would pluck every hair from their bodies.
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"You are what you believe in. You become that which you believe you can become." - Bhagavad Gita
+"Give so much away people insist on paying you." - Jack Butcher
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,15 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Violet-backed starling (Cinnyricinclus leucogaster verreauxi) female.jpg](https://upload.wikimedia.org/wikipedia/commons/c/c6/Violet-backed_starling_%28Cinnyricinclus_leucogaster_verreauxi%29_female.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![NE Lac Bab Louta Tazekka Nov25 A7CR 09270-4 HDR1.jpg](https://upload.wikimedia.org/wikipedia/commons/1/1a/NE_Lac_Bab_Louta_Tazekka_Nov25_A7CR_09270-4_HDR1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Violet-backed starling (Cinnyricinclus leucogaster verreauxi) female.jpg**
+**NE Lac Bab Louta Tazekka Nov25 A7CR 09270-4 HDR1.jpg**
 
-Charles J. Sharp
+This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.
+
+
+
+Please do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +49,8 @@ Charles J. Sharp
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Video Games - medium]** Which of these songs does NOT play during the Ruins segments of the 2015 game "Undertale"?
-> Answer: ||Another Medium||
+**[Entertainment: Film - medium]** In the film "Requiem for a Dream", what drug does Jared Leto's character get addicted to?
+> Answer: ||Heroin||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +67,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-09-24T11:10:38Z UTC_
+_Last updated: 2026-09-25T11:14:58Z UTC_
