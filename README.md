@@ -1,11 +1,11 @@
-# Daily Digest - 2026-09-25
+# Daily Digest - 2026-09-26
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**codified** - (definition lookup failed: Timeout was reached)
+**digastrics** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-There is no solid proof of who built the Taj Mahal.
+There are 41,806 different spoken languages in the world today.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ There is no solid proof of who built the Taj Mahal.
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Give so much away people insist on paying you." - Jack Butcher
+"If you get up one more time than you fall, you will make it through." - Chinese Proverb
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,15 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![NE Lac Bab Louta Tazekka Nov25 A7CR 09270-4 HDR1.jpg](https://upload.wikimedia.org/wikipedia/commons/1/1a/NE_Lac_Bab_Louta_Tazekka_Nov25_A7CR_09270-4_HDR1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![002 Jabiru feeding its babies in their nest in Encontro das Águas State Park Photo by Giles Laurent.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b2/002_Jabiru_feeding_its_babies_in_their_nest_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**NE Lac Bab Louta Tazekka Nov25 A7CR 09270-4 HDR1.jpg**
+**002 Jabiru feeding its babies in their nest in Encontro das Águas State Park Photo by Giles Laurent.jpg**
 
-This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.
-
-
-
-Please do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.
+Giles Laurent
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -49,8 +45,8 @@ Please do not upload an edited image here without consulting me.  I would like t
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Film - medium]** In the film "Requiem for a Dream", what drug does Jared Leto's character get addicted to?
-> Answer: ||Heroin||
+**[Geography - medium]** The Japanese district Akihabara is also known by what nickname?
+> Answer: ||Electric Town||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -67,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-09-25T11:14:58Z UTC_
+_Last updated: 2026-09-26T10:52:28Z UTC_
