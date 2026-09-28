@@ -1,11 +1,11 @@
-# Daily Digest - 2026-09-27
+# Daily Digest - 2026-09-28
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**gownsmen** - (definition lookup failed: Timeout was reached)
+**shirtdresses** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-The human body is comprised of 80% water.
+Americans are responsible for about 1/5 of the world’s garbage annually.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ The human body is comprised of 80% water.
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Don't let your learning lead to knowledge. Let your learning lead to action." - Jim Rohn
+"One mistake does not have to rule a person's entire life." - Joyce Meyer
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Gladiolus dalenii flower Ooty Jul25 A7CR 06187-224 zsp.jpg](https://upload.wikimedia.org/wikipedia/commons/0/05/Gladiolus_dalenii_flower_Ooty_Jul25_A7CR_06187-224_zsp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Cisterna Basílica, Estambul, Turquía, 2024-09-28, DD 58-60 HDR.jpg](https://upload.wikimedia.org/wikipedia/commons/a/ae/Cisterna_Bas%C3%ADlica%2C_Estambul%2C_Turqu%C3%ADa%2C_2024-09-28%2C_DD_58-60_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Gladiolus dalenii flower Ooty Jul25 A7CR 06187-224 zsp.jpg**
+**Cisterna Basílica, Estambul, Turquía, 2024-09-28, DD 58-60 HDR.jpg**
 
-Timothy A. Gonsalves
+Diego Delso
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Timothy A. Gonsalves
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Geography - easy]** What is the name of the ocean that Hawaii is located in?
-> Answer: ||Pacific||
+**[Science: Computers - medium]** When was the programming language "C#" released?
+> Answer: ||2000||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-09-27T11:28:37Z UTC_
+_Last updated: 2026-09-28T13:00:56Z UTC_
