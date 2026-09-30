@@ -1,11 +1,11 @@
-# Daily Digest - 2026-09-29
+# Daily Digest - 2026-09-30
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**fishponds** - (definition lookup failed: Timeout was reached)
+**polysemic** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Rubber bands last longer when refrigerated.  
+A skunk's smell can be detected by a human a mile away.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ Rubber bands last longer when refrigerated.  
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Silence is a source of great strength." - Lao Tzu
+"If you've made a mistake, it's better just to laugh at it." - Zen Proverb
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Ceiling Painted Dome Cupola Angels Fighting Demons in Vatican Museums.png](https://upload.wikimedia.org/wikipedia/commons/5/51/Ceiling_Painted_Dome_Cupola_Angels_Fighting_Demons_in_Vatican_Museums.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Split Cathedral Bell Tower From The Vestibule - Split.jpg](https://upload.wikimedia.org/wikipedia/commons/9/93/Split_Cathedral_Bell_Tower_From_The_Vestibule_-_Split.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Ceiling Painted Dome Cupola Angels Fighting Demons in Vatican Museums.png**
+**Split Cathedral Bell Tower From The Vestibule - Split.jpg**
 
-Livioandronico2013
+Sumitsurai
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Livioandronico2013
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Film - medium]** What year did the movie "Napoleon Dynamite" come out?
-> Answer: ||2004||
+**[Geography - hard]** Ouagadougou is the capital of which African country?
+> Answer: ||Burkina Faso||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-09-29T12:12:27Z UTC_
+_Last updated: 2026-09-30T11:58:52Z UTC_
