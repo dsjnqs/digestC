@@ -1,11 +1,11 @@
-# Daily Digest - 2026-10-04
+# Daily Digest - 2026-10-05
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**cosmogony** *(noun)* - The study of the origin, and sometimes the development, of the universe or the solar system, in astrophysics, religion, and other fields.
+**quoters** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-The verb "cleave" is the only English word with two synonyms which are antonyms of each other: adhere and separate.
+You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ The verb "cleave" is the only English word with two synonyms which are antonyms 
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Would you rather learn to deal with the truth now than be forced to do so later on?" - Celestine Chua
+"Engage in those actions and thoughts that nurture the good qualities you want to have." - Paramahansa Yogananda
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Basilica dei Santi Apostoli (Rome) - Ceiling.jpg](https://upload.wikimedia.org/wikipedia/commons/5/52/Basilica_dei_Santi_Apostoli_%28Rome%29_-_Ceiling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Krummhörn, Greetsiel, Windmühlen -- 2025 -- 9837.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b4/Krummh%C3%B6rn%2C_Greetsiel%2C_Windm%C3%BChlen_--_2025_--_9837.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Basilica dei Santi Apostoli (Rome) - Ceiling.jpg**
+**Krummhörn, Greetsiel, Windmühlen -- 2025 -- 9837.jpg**
 
-Livioandronico2013
+Dietmar Rabich
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Livioandronico2013
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Video Games - medium]** How many Mudokons are rescuable in "Oddworld: New 'N' Tasty"?
-> Answer: ||299||
+**[General Knowledge - easy]** How tall is the Burj Khalifa?
+> Answer: ||2,722 ft||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-10-04T11:50:19Z UTC_
+_Last updated: 2026-10-05T13:43:09Z UTC_
