@@ -1,11 +1,11 @@
-# Daily Digest - 2026-10-05
+# Daily Digest - 2026-10-06
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**quoters** - (definition lookup failed: Timeout was reached)
+**refractile** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah.
+There are more psychoanalysts per capita in Buenos Aires than any other place in the world.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah.
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Engage in those actions and thoughts that nurture the good qualities you want to have." - Paramahansa Yogananda
+"A gentleman is one who puts more into the world than he takes out." - George Bernard Shaw
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Krummhörn, Greetsiel, Windmühlen -- 2025 -- 9837.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b4/Krummh%C3%B6rn%2C_Greetsiel%2C_Windm%C3%BChlen_--_2025_--_9837.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Bessen van een Mahonia aquifolium. 17-08-2025. (actm.) 01.jpg](https://upload.wikimedia.org/wikipedia/commons/0/08/Bessen_van_een_Mahonia_aquifolium._17-08-2025._%28actm.%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Krummhörn, Greetsiel, Windmühlen -- 2025 -- 9837.jpg**
+**Bessen van een Mahonia aquifolium. 17-08-2025. (actm.) 01.jpg**
 
-Dietmar Rabich
+Agnes Monkelbaan
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Dietmar Rabich
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[General Knowledge - easy]** How tall is the Burj Khalifa?
-> Answer: ||2,722 ft||
+**[Entertainment: Video Games - medium]** In the game "Cave Story," what is the character Balrog's catchphrase?
+> Answer: ||Huzzah!||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-10-05T13:43:09Z UTC_
+_Last updated: 2026-10-06T12:49:18Z UTC_
