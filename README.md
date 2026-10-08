@@ -1,11 +1,11 @@
-# Daily Digest - 2026-10-07
+# Daily Digest - 2026-10-08
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**dappling** - (definition lookup failed: Timeout was reached)
+**vendettas** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-The first episode of "Joanie Loves Chachi" was the highest rated American program in the history of Korean television, a country where "Chachi" translates to "penis".  
+Conception occurs most in the month of December.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ The first episode of "Joanie Loves Chachi" was the highest rated American progra
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Be happy now, without reason - or you never will be at all." - Dan Millman
+"Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Rain Quail in Bhigwan August 2025 by Tisha Mukherjee 13.jpg](https://upload.wikimedia.org/wikipedia/commons/6/64/Rain_Quail_in_Bhigwan_August_2025_by_Tisha_Mukherjee_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![011 Jaguar drinking in Encontro das Águas State Park Photo by Giles Laurent.jpg](https://upload.wikimedia.org/wikipedia/commons/e/ec/011_Jaguar_drinking_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Rain Quail in Bhigwan August 2025 by Tisha Mukherjee 13.jpg**
+**011 Jaguar drinking in Encontro das Águas State Park Photo by Giles Laurent.jpg**
 
-Tisha Mukherjee
+Giles Laurent
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Tisha Mukherjee
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Video Games - hard]** In the Nintendo Game Splatoon 2, what is Marina's screen name?
-> Answer: ||DJ_Hyperfresh||
+**[Animals - medium]** Which of these species is not extinct?
+> Answer: ||Komodo dragon||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-10-07T12:43:30Z UTC_
+_Last updated: 2026-10-08T12:53:05Z UTC_
