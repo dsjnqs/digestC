@@ -1,11 +1,11 @@
-# Daily Digest - 2026-10-08
+# Daily Digest - 2026-10-09
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**vendettas** - (definition lookup failed: Timeout was reached)
+**coreigns** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Conception occurs most in the month of December.
+Most lipstick contains fish scales!
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ Conception occurs most in the month of December.
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
+"The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool." - Ray Bradbury
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![011 Jaguar drinking in Encontro das Águas State Park Photo by Giles Laurent.jpg](https://upload.wikimedia.org/wikipedia/commons/e/ec/011_Jaguar_drinking_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![PO boxes at the historic Chico Post Office (2024)-L1005460.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e1/PO_boxes_at_the_historic_Chico_Post_Office_%282024%29-L1005460.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**011 Jaguar drinking in Encontro das Águas State Park Photo by Giles Laurent.jpg**
+**PO boxes at the historic Chico Post Office (2024)-L1005460.jpg**
 
-Giles Laurent
+Frank Schulenburg
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Giles Laurent
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Animals - medium]** Which of these species is not extinct?
-> Answer: ||Komodo dragon||
+**[Entertainment: Video Games - medium]** Which country was Eliza "Ash" Cohen from "Tom Clancy's Rainbow Six Siege" born in?
+> Answer: ||Israel||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-10-08T12:53:05Z UTC_
+_Last updated: 2026-10-09T12:38:29Z UTC_
