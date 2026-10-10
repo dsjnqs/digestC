@@ -1,11 +1,11 @@
-# Daily Digest - 2026-10-09
+# Daily Digest - 2026-10-10
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**coreigns** - (definition lookup failed: Timeout was reached)
+**memorialist** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Most lipstick contains fish scales!
+The expression `to get fired` comes from long ago Clans that wanted to get rid of unwanted people, so they would burn their houses instead of killing them, creating the term `Got fired`.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ Most lipstick contains fish scales!
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool." - Ray Bradbury
+"Ability is a poor man's wealth." - John Wooden
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![PO boxes at the historic Chico Post Office (2024)-L1005460.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e1/PO_boxes_at_the_historic_Chico_Post_Office_%282024%29-L1005460.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Bust of Germanicus, front - Getty Museum (2021.66).jpg](https://upload.wikimedia.org/wikipedia/commons/b/be/Bust_of_Germanicus%2C_front_-_Getty_Museum_%282021.66%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**PO boxes at the historic Chico Post Office (2024)-L1005460.jpg**
+**Bust of Germanicus, front - Getty Museum (2021.66).jpg**
 
-Frank Schulenburg
+J. Paul Getty Museum
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Frank Schulenburg
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Video Games - medium]** Which country was Eliza "Ash" Cohen from "Tom Clancy's Rainbow Six Siege" born in?
-> Answer: ||Israel||
+**[Entertainment: Film - medium]** Who played Batman in the 1997 film "Batman and Robin"?
+> Answer: ||George Clooney||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-10-09T12:38:29Z UTC_
+_Last updated: 2026-10-10T11:58:12Z UTC_
