@@ -1,11 +1,11 @@
-# Daily Digest - 2026-10-10
+# Daily Digest - 2026-10-11
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**memorialist** - (definition lookup failed: Timeout was reached)
+**politicians** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-The expression `to get fired` comes from long ago Clans that wanted to get rid of unwanted people, so they would burn their houses instead of killing them, creating the term `Got fired`.
+Stephen Hawking was born exactly 300 years after Galileo died.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ The expression `to get fired` comes from long ago Clans that wanted to get rid o
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Ability is a poor man's wealth." - John Wooden
+"You only live once, but if you do it right, once is enough." - Mae West
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Bust of Germanicus, front - Getty Museum (2021.66).jpg](https://upload.wikimedia.org/wikipedia/commons/b/be/Bust_of_Germanicus%2C_front_-_Getty_Museum_%282021.66%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Zona arqueológica de Cantona, Puebla, México, 2013-10-11, DD 43.JPG](https://upload.wikimedia.org/wikipedia/commons/a/a2/Zona_arqueol%C3%B3gica_de_Cantona%2C_Puebla%2C_M%C3%A9xico%2C_2013-10-11%2C_DD_43.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Bust of Germanicus, front - Getty Museum (2021.66).jpg**
+**Zona arqueológica de Cantona, Puebla, México, 2013-10-11, DD 43.JPG**
 
-J. Paul Getty Museum
+Diego Delso
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ J. Paul Getty Museum
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Film - medium]** Who played Batman in the 1997 film "Batman and Robin"?
-> Answer: ||George Clooney||
+**[Geography - easy]** Which country features a maple leaf on its flag?
+> Answer: ||Canada||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-10-10T11:58:12Z UTC_
+_Last updated: 2026-10-11T12:10:31Z UTC_
