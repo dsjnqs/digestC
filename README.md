@@ -1,11 +1,11 @@
-# Daily Digest - 2026-10-11
+# Daily Digest - 2026-10-12
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**politicians** - (definition lookup failed: Timeout was reached)
+**glibnesses** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Stephen Hawking was born exactly 300 years after Galileo died.
+Hannibal had only one eye after getting a disease while attacking Rome.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ Stephen Hawking was born exactly 300 years after Galileo died.
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"You only live once, but if you do it right, once is enough." - Mae West
+"Those who know, do. Those that understand, teach." - Aristotle
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Zona arqueológica de Cantona, Puebla, México, 2013-10-11, DD 43.JPG](https://upload.wikimedia.org/wikipedia/commons/a/a2/Zona_arqueol%C3%B3gica_de_Cantona%2C_Puebla%2C_M%C3%A9xico%2C_2013-10-11%2C_DD_43.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Gotland Grand National October 2023 12.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d1/Gotland_Grand_National_October_2023_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Zona arqueológica de Cantona, Puebla, México, 2013-10-11, DD 43.JPG**
+**Gotland Grand National October 2023 12.jpg**
 
-Diego Delso
+Arild Vågen
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Diego Delso
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Geography - easy]** Which country features a maple leaf on its flag?
-> Answer: ||Canada||
+**[Entertainment: Video Games - medium]** Who voices the character "Vernon Cherry" in "Red Dead Redemption"?
+> Answer: ||Casey Mongillo||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-10-11T12:10:31Z UTC_
+_Last updated: 2026-10-12T14:31:46Z UTC_
