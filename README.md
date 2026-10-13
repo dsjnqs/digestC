@@ -1,11 +1,11 @@
-# Daily Digest - 2026-10-12
+# Daily Digest - 2026-10-13
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**glibnesses** - (definition lookup failed: Timeout was reached)
+**glories** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Hannibal had only one eye after getting a disease while attacking Rome.
+Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ Hannibal had only one eye after getting a disease while attacking Rome.
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Those who know, do. Those that understand, teach." - Aristotle
+"Life can be the scariest and most beautiful thing simultaneously." - Maxime Lagace
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Gotland Grand National October 2023 12.jpg](https://upload.wikimedia.org/wikipedia/commons/d/d1/Gotland_Grand_National_October_2023_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Desert elephant (Loxodonta africana) spraying sand.jpg](https://upload.wikimedia.org/wikipedia/commons/5/50/Desert_elephant_%28Loxodonta_africana%29_spraying_sand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Gotland Grand National October 2023 12.jpg**
+**Desert elephant (Loxodonta africana) spraying sand.jpg**
 
-Arild Vågen
+Charles J. Sharp
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Arild Vågen
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Video Games - medium]** Who voices the character "Vernon Cherry" in "Red Dead Redemption"?
-> Answer: ||Casey Mongillo||
+**[Entertainment: Video Games - medium]** Which one of these characters was first introduced in Sonic Boom: Rise of Lyric?
+> Answer: ||Sticks the Badger||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-10-12T14:31:46Z UTC_
+_Last updated: 2026-10-13T13:38:23Z UTC_
