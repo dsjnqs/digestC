@@ -1,11 +1,11 @@
-# Daily Digest - 2026-10-13
+# Daily Digest - 2026-10-14
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**glories** - (definition lookup failed: Timeout was reached)
+**foxhunters** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world.
+"You" is the second most spoken English word
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ Seattle’s Fremont Bridge rises up and down more than any drawbridge in the wor
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Life can be the scariest and most beautiful thing simultaneously." - Maxime Lagace
+"Genius is one percent inspiration and ninety-nine percent perspiration." - Thomas Edison
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Desert elephant (Loxodonta africana) spraying sand.jpg](https://upload.wikimedia.org/wikipedia/commons/5/50/Desert_elephant_%28Loxodonta_africana%29_spraying_sand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Great Blue Heron (Ardea herodias), hunting.jpg](https://upload.wikimedia.org/wikipedia/commons/6/66/Great_Blue_Heron_%28Ardea_herodias%29%2C_hunting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Desert elephant (Loxodonta africana) spraying sand.jpg**
+**Great Blue Heron (Ardea herodias), hunting.jpg**
 
-Charles J. Sharp
+Frank Schulenburg
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Charles J. Sharp
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Video Games - medium]** Which one of these characters was first introduced in Sonic Boom: Rise of Lyric?
-> Answer: ||Sticks the Badger||
+**[Science & Nature - easy]** What is the unit of electrical resistance?
+> Answer: ||Ohm||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-10-13T13:38:23Z UTC_
+_Last updated: 2026-10-14T11:16:52Z UTC_
