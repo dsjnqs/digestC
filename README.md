@@ -1,11 +1,11 @@
-# Daily Digest - 2026-10-14
+# Daily Digest - 2026-10-15
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**foxhunters** - (definition lookup failed: Timeout was reached)
+**shalier** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-"You" is the second most spoken English word
+The first automobile race ever seen in the United States was held in Chicago in 1895. The track ran from Chicago to Evanston, Illinois. The winner was J. Frank Duryea, whose average speed was 71/2 miles per hour.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ _Something true, interesting, or surprising._
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Genius is one percent inspiration and ninety-nine percent perspiration." - Thomas Edison
+"Everything eaten is killed. Every meal is a sacrifice." - Adi Da Samraj
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Great Blue Heron (Ardea herodias), hunting.jpg](https://upload.wikimedia.org/wikipedia/commons/6/66/Great_Blue_Heron_%28Ardea_herodias%29%2C_hunting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Pepino de mar (Holothuria fuscogilva), parque nacional Ras Muhammad, Egipto, 2022-03-28, DD 119.jpg](https://upload.wikimedia.org/wikipedia/commons/9/9e/Pepino_de_mar_%28Holothuria_fuscogilva%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-28%2C_DD_119.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Great Blue Heron (Ardea herodias), hunting.jpg**
+**Pepino de mar (Holothuria fuscogilva), parque nacional Ras Muhammad, Egipto, 2022-03-28, DD 119.jpg**
 
-Frank Schulenburg
+Diego Delso
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Frank Schulenburg
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Science & Nature - easy]** What is the unit of electrical resistance?
-> Answer: ||Ohm||
+**[History - medium]** When was "The Gadget", the first nuclear device to be detonated, tested?
+> Answer: ||July 16, 1945||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-10-14T11:16:52Z UTC_
+_Last updated: 2026-10-15T10:55:15Z UTC_
