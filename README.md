@@ -1,11 +1,11 @@
-# Daily Digest - 2026-10-15
+# Daily Digest - 2026-10-16
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**shalier** - (definition lookup failed: Timeout was reached)
+**streakiest** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-The first automobile race ever seen in the United States was held in Chicago in 1895. The track ran from Chicago to Evanston, Illinois. The winner was J. Frank Duryea, whose average speed was 71/2 miles per hour.
+The catfish has over 27000 taste buds (more than any other animal)
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ The first automobile race ever seen in the United States was held in Chicago in 
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Everything eaten is killed. Every meal is a sacrifice." - Adi Da Samraj
+"As we first succeed, we will find ourselves in new situations, facing new problems." - Ryan Holiday
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Pepino de mar (Holothuria fuscogilva), parque nacional Ras Muhammad, Egipto, 2022-03-28, DD 119.jpg](https://upload.wikimedia.org/wikipedia/commons/9/9e/Pepino_de_mar_%28Holothuria_fuscogilva%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-28%2C_DD_119.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Norderney, Promenade -- 2025 -- 9281.jpg](https://upload.wikimedia.org/wikipedia/commons/d/dd/Norderney%2C_Promenade_--_2025_--_9281.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Pepino de mar (Holothuria fuscogilva), parque nacional Ras Muhammad, Egipto, 2022-03-28, DD 119.jpg**
+**Norderney, Promenade -- 2025 -- 9281.jpg**
 
-Diego Delso
+Dietmar Rabich
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Diego Delso
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[History - medium]** When was "The Gadget", the first nuclear device to be detonated, tested?
-> Answer: ||July 16, 1945||
+**[Science: Mathematics - easy]** How many sides does a trapezium have?
+> Answer: ||4||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-10-15T10:55:15Z UTC_
+_Last updated: 2026-10-16T10:47:05Z UTC_
