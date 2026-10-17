@@ -1,11 +1,11 @@
-# Daily Digest - 2026-10-16
+# Daily Digest - 2026-10-17
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**streakiest** - (definition lookup failed: Timeout was reached)
+**heaving** - (definition lookup failed: Timeout was reached)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-The catfish has over 27000 taste buds (more than any other animal)
+China has more English speakers than the United States.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ The catfish has over 27000 taste buds (more than any other animal)
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"As we first succeed, we will find ourselves in new situations, facing new problems." - Ryan Holiday
+"You've got to get up every morning with determination if you're going to go to bed with satisfaction." - George Lorimer
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Norderney, Promenade -- 2025 -- 9281.jpg](https://upload.wikimedia.org/wikipedia/commons/d/dd/Norderney%2C_Promenade_--_2025_--_9281.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Purple beautyberry, October 2015 - Stacking.jpg](https://upload.wikimedia.org/wikipedia/commons/1/1b/Purple_beautyberry%2C_October_2015_-_Stacking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Norderney, Promenade -- 2025 -- 9281.jpg**
+**Purple beautyberry, October 2015 - Stacking.jpg**
 
-Dietmar Rabich
+Laitche
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Dietmar Rabich
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Science: Mathematics - easy]** How many sides does a trapezium have?
-> Answer: ||4||
+**[Entertainment: Board Games - medium]** Who is the main character in the VHS tape included in the board game Nightmare?
+> Answer: ||The Gatekeeper||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-10-16T10:47:05Z UTC_
+_Last updated: 2026-10-17T10:12:40Z UTC_
