@@ -1,11 +1,11 @@
-# Daily Digest - 2026-10-18
+# Daily Digest - 2026-10-19
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**quaff** - (definition lookup failed: HTTP error response)
+**corelating** - (definition lookup failed: HTTP error response)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Beetles taste like apples, wasps like pine nuts, and worms like fried bacon.
+Cats have over 100 vocal sounds; dogs only have 10.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ Beetles taste like apples, wasps like pine nuts, and worms like fried bacon.
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"The greater the impact you want to make, the greater your influence needs to be." - Lolly Daskal
+"The secret of change is to focus all your energy not on fighting the old, but on building the new." - Colin R. Davis
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Grandes Heures Anne de Bretagne Saint Luc.jpg](https://upload.wikimedia.org/wikipedia/commons/5/5b/Grandes_Heures_Anne_de_Bretagne_Saint_Luc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Bengal tiger in Sanjay Dubri Tiger Reserve December 2024 by Tisha Mukherjee 11.jpg](https://upload.wikimedia.org/wikipedia/commons/8/84/Bengal_tiger_in_Sanjay_Dubri_Tiger_Reserve_December_2024_by_Tisha_Mukherjee_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Grandes Heures Anne de Bretagne Saint Luc.jpg**
+**Bengal tiger in Sanjay Dubri Tiger Reserve December 2024 by Tisha Mukherjee 11.jpg**
 
-Jean Bourdichon
+Tisha Mukherjee
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Jean Bourdichon
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Film - hard]** What was Humphrey Bogart's middle name?
-> Answer: ||DeForest||
+**[Mythology - hard]** What immense structure is referred to in Norse Mythology as the Yggdrasil.
+> Answer: ||Tree||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-10-18T10:27:49Z UTC_
+_Last updated: 2026-10-19T12:14:57Z UTC_
