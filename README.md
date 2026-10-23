@@ -1,11 +1,11 @@
-# Daily Digest - 2026-10-22
+# Daily Digest - 2026-10-23
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**outadds** - (definition lookup failed: HTTP error response)
+**shrunken** - (definition lookup failed: HTTP error response)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-A cat uses its whiskers to determine if a space is too small to squeeze through.
+There is a seven letter word in the English language that contains ten words without rearranging any of its letters, "therein": the, there, he, in, rein, her, here, ere, therein, herein.  
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ A cat uses its whiskers to determine if a space is too small to squeeze through.
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one." - Mark Twain
+"If someone betrays you once, it's their fault; if they betray you twice, it's your fault." - Eleanor Roosevelt
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Red Dragon scuplture during River Lee flooding, October 2023.jpg](https://upload.wikimedia.org/wikipedia/commons/5/51/Red_Dragon_scuplture_during_River_Lee_flooding%2C_October_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Vodno Telecommunication Tower.jpg](https://upload.wikimedia.org/wikipedia/commons/7/7e/Vodno_Telecommunication_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Red Dragon scuplture during River Lee flooding, October 2023.jpg**
+**Vodno Telecommunication Tower.jpg**
 
-Podstawko
+kallerna
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Podstawko
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Video Games - medium]** What is the mod "Cry of Fear" based off of?
-> Answer: ||Half-Life||
+**[Entertainment: Video Games - easy]** Which one of these characters is NOT a playable fighter in Super Smash Bros. Ultimate?
+> Answer: ||Kumatora||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-10-22T11:13:47Z UTC_
+_Last updated: 2026-10-23T11:04:43Z UTC_
