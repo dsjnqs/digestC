@@ -1,11 +1,11 @@
-# Daily Digest - 2026-10-24
+# Daily Digest - 2026-10-25
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**rosewood** - (definition lookup failed: HTTP error response)
+**kieselgurs** - (definition lookup failed: HTTP error response)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Reindeer like to eat bananas.
+Barbie`s full name is Barbara Millicent Roberts.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ Reindeer like to eat bananas.
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world." - Henry Ward Beecher
+"The wiser you get, the less you care to look like a fool." - Maxime Lagace
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![016 Ocelot in Encontro das Águas State Park Photo by Giles Laurent.jpg](https://upload.wikimedia.org/wikipedia/commons/9/91/016_Ocelot_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Дорога до церкви.jpg](https://upload.wikimedia.org/wikipedia/commons/9/9c/%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B0_%D0%B4%D0%BE_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**016 Ocelot in Encontro das Águas State Park Photo by Giles Laurent.jpg**
+**Дорога до церкви.jpg**
 
-Giles Laurent
+Михайло Пецкович
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Giles Laurent
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Music - medium]** What are the first few words in the lyrics of A-Ha's 'Take On Me'?
-> Answer: ||We're talking away||
+**[Entertainment: Music - medium]** When was the 3rd album "Notes from the Underground" of the band "Hollywood Undead" released?
+> Answer: ||2013||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-10-24T10:21:20Z UTC_
+_Last updated: 2026-10-25T10:48:44Z UTC_
