@@ -1,11 +1,11 @@
-# Daily Digest - 2026-10-27
+# Daily Digest - 2026-10-28
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**overemotes** - (definition lookup failed: HTTP error response)
+**gated** - (definition lookup failed: HTTP error response)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-If you feed a seagull Alka-Seltzer, its stomach will explode.
+A 2" X 4" is really 1-1/2" by 3-1/2".
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ If you feed a seagull Alka-Seltzer, its stomach will explode.
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Still your waters." - Josh Waitzkin
+"What we dwell on is who we become." - Oprah Winfrey
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,9 +32,9 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Ankara asv2021-10 img17 Atakule.jpg](https://upload.wikimedia.org/wikipedia/commons/7/7e/Ankara_asv2021-10_img17_Atakule.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Moscow TverZastava Vityaz asv2018-09.jpg](https://upload.wikimedia.org/wikipedia/commons/0/0d/Moscow_TverZastava_Vityaz_asv2018-09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Ankara asv2021-10 img17 Atakule.jpg**
+**Moscow TverZastava Vityaz asv2018-09.jpg**
 
 A.Savin
 
@@ -45,8 +45,8 @@ A.Savin
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[General Knowledge - hard]** What is the longest bridge in the world?
-> Answer: ||Danyang&ndash;Kunshan Grand Bridge, China||
+**[Entertainment: Film - medium]** What year did the movie "Napoleon Dynamite" come out?
+> Answer: ||2004||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-10-27T11:39:34Z UTC_
+_Last updated: 2026-10-28T12:11:15Z UTC_
