@@ -1,11 +1,11 @@
-# Daily Digest - 2026-10-29
+# Daily Digest - 2026-10-30
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**totaling** - (definition lookup failed: HTTP error response)
+**greenlighting** - (definition lookup failed: HTTP error response)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-No matter where you stand in Michigan, you are never more than 85 miles from a Great Lake.
+A blue whales heart only beats nine times per minute.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ No matter where you stand in Michigan, you are never more than 85 miles from a G
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"The more reasons you have for achieving your goal, the more determined you will become." - Brian Tracy
+"Distant water does not put out a nearby fire." - Chinese Proverb
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Vignes près du Pic de Vissou - October 2020.jpg](https://upload.wikimedia.org/wikipedia/commons/b/bf/Vignes_pr%C3%A8s_du_Pic_de_Vissou_-_October_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![CH.ZG.Walchwil Walchwilerberg Heumoosegg 2016-10-30 OrigX-R gp.jpg](https://upload.wikimedia.org/wikipedia/commons/2/25/CH.ZG.Walchwil_Walchwilerberg_Heumoosegg_2016-10-30_OrigX-R_gp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Vignes près du Pic de Vissou - October 2020.jpg**
+**CH.ZG.Walchwil Walchwilerberg Heumoosegg 2016-10-30 OrigX-R gp.jpg**
 
-Christian Ferrer
+NOTE: This image is a panorama of Sunrays near Walchwil, Switzerland consisting of 7 frames that were merged or stitched in Kolor Autopano Pro. As a result, this image necessarily underwent some form of digital manipulation. These manipulations may include blending, blurring, cloning, and color and perspective adjustments. As a result of these adjustments, the image content may be slightly different from reality at the points where multiple images were combined. This manipulation is often required due to lens, perspective, and parallax distortions.
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Christian Ferrer
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Video Games - medium]** What is the only Generation III Pokemon whose name begins with the letter I?
-> Answer: ||Illumise||
+**[Geography - easy]** Which Borough is the farthest in the north of New York City?
+> Answer: ||Bronx||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-10-29T12:21:57Z UTC_
+_Last updated: 2026-10-30T12:12:41Z UTC_
