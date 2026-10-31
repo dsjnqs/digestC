@@ -1,11 +1,11 @@
-# Daily Digest - 2026-10-30
+# Daily Digest - 2026-10-31
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**greenlighting** - (definition lookup failed: HTTP error response)
+**wampished** - (definition lookup failed: HTTP error response)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-A blue whales heart only beats nine times per minute.
+Most dust particles in your house are made from dead skin!
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ A blue whales heart only beats nine times per minute.
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Distant water does not put out a nearby fire." - Chinese Proverb
+"When you believe in a thing, believe in it all the way, implicitly and unquestionable." - Walt Disney
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![CH.ZG.Walchwil Walchwilerberg Heumoosegg 2016-10-30 OrigX-R gp.jpg](https://upload.wikimedia.org/wikipedia/commons/2/25/CH.ZG.Walchwil_Walchwilerberg_Heumoosegg_2016-10-30_OrigX-R_gp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Graveyard 27x39 ENGLISH.png](https://upload.wikimedia.org/wikipedia/commons/2/25/Graveyard_27x39_ENGLISH.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**CH.ZG.Walchwil Walchwilerberg Heumoosegg 2016-10-30 OrigX-R gp.jpg**
+**Graveyard 27x39 ENGLISH.png**
 
-NOTE: This image is a panorama of Sunrays near Walchwil, Switzerland consisting of 7 frames that were merged or stitched in Kolor Autopano Pro. As a result, this image necessarily underwent some form of digital manipulation. These manipulations may include blending, blurring, cloning, and color and perspective adjustments. As a result of these adjustments, the image content may be slightly different from reality at the points where multiple images were combined. This manipulation is often required due to lens, perspective, and parallax distortions.
+NASA-JPL/Caltech
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ NOTE: This image is a panorama of Sunrays near Walchwil, Switzerland consisting 
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Geography - easy]** Which Borough is the farthest in the north of New York City?
-> Answer: ||Bronx||
+**[Geography - hard]** Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch is located on which Welsh island?
+> Answer: ||Anglesey||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-10-30T12:12:41Z UTC_
+_Last updated: 2026-10-31T11:44:43Z UTC_
