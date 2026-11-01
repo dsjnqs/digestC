@@ -1,11 +1,11 @@
-# Daily Digest - 2026-10-31
+# Daily Digest - 2026-11-01
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**wampished** - (definition lookup failed: HTTP error response)
+**reexecuted** - (definition lookup failed: HTTP error response)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Most dust particles in your house are made from dead skin!
+The people of France eat more cheese than any other country in the world.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ Most dust particles in your house are made from dead skin!
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"When you believe in a thing, believe in it all the way, implicitly and unquestionable." - Walt Disney
+"When something comes from within, when it is a part of you, you have no choice but to live it, to express it." - Kamal Ravikant
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Graveyard 27x39 ENGLISH.png](https://upload.wikimedia.org/wikipedia/commons/2/25/Graveyard_27x39_ENGLISH.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Església Santa Margalida - Santa Margalida - Mallorca - stained-glass windows.jpg](https://upload.wikimedia.org/wikipedia/commons/e/ea/Esgl%C3%A9sia_Santa_Margalida_-_Santa_Margalida_-_Mallorca_-_stained-glass_windows.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Graveyard 27x39 ENGLISH.png**
+**Església Santa Margalida - Santa Margalida - Mallorca - stained-glass windows.jpg**
 
-NASA-JPL/Caltech
+H. Zell
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ NASA-JPL/Caltech
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Geography - hard]** Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch is located on which Welsh island?
-> Answer: ||Anglesey||
+**[Entertainment: Film - easy]** What was Bruce Campbell's iconic one-liner after getting a chainsaw hand in Evil Dead 2?
+> Answer: ||Groovy.||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-10-31T11:44:43Z UTC_
+_Last updated: 2026-11-01T12:43:49Z UTC_
