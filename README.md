@@ -1,11 +1,11 @@
-# Daily Digest - 2026-11-01
+# Daily Digest - 2026-11-02
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**reexecuted** - (definition lookup failed: HTTP error response)
+**mordents** - (definition lookup failed: HTTP error response)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-The people of France eat more cheese than any other country in the world.
+the bird is the word
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ The people of France eat more cheese than any other country in the world.
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"When something comes from within, when it is a part of you, you have no choice but to live it, to express it." - Kamal Ravikant
+"If you want others to be happy, practice compassion. If you want to be happy, practice compassion." - Dalai Lama
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Església Santa Margalida - Santa Margalida - Mallorca - stained-glass windows.jpg](https://upload.wikimedia.org/wikipedia/commons/e/ea/Esgl%C3%A9sia_Santa_Margalida_-_Santa_Margalida_-_Mallorca_-_stained-glass_windows.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Saint-Charles Cemetery 05.jpg](https://upload.wikimedia.org/wikipedia/commons/1/15/Snow-covered_Saint-Charles_Cemetery_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Església Santa Margalida - Santa Margalida - Mallorca - stained-glass windows.jpg**
+**Saint-Charles Cemetery 05.jpg**
 
-H. Zell
+Wilfredor
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ H. Zell
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Film - easy]** What was Bruce Campbell's iconic one-liner after getting a chainsaw hand in Evil Dead 2?
-> Answer: ||Groovy.||
+**[Entertainment: Music - medium]** Which of these songs is NOT in The Beatles' album "Sgt. Pepper's Lonely Hearts Club Band"?
+> Answer: ||Strawberry Fields Forever||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-11-01T12:43:49Z UTC_
+_Last updated: 2026-11-02T14:51:20Z UTC_
