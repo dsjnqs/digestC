@@ -1,11 +1,13 @@
-# Daily Digest - 2026-11-05
+# Daily Digest - 2026-11-06
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**aponeuroses** - (definition lookup failed: HTTP error response)
+**serendipity** *(noun)* - the occurrence of finding pleasant things by chance
+
+_(Live lookup failed: Timeout was reached - showing a fallback word.)_
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +16,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-The average cough comes out of your mouth at 60 miles (96.5 km) per hour.
+To "testify" was based on men in the Roman court swearing to a statement made by swearing on their testicles.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +25,7 @@ The average cough comes out of your mouth at 60 miles (96.5 km) per hour.
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Debt is the slavery of the free." - Publilius Syrus
+"Your mind is infinite, it's your doubts that are limiting." - Robert Kiyosaki
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +34,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Norderney, Dünenlandschaft, Wegweiser -- 2025 -- 9437.jpg](https://upload.wikimedia.org/wikipedia/commons/1/14/Norderney%2C_D%C3%BCnenlandschaft%2C_Wegweiser_--_2025_--_9437.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Common wombat (Vombatus ursinus tasmaniensis) juvenile Maria Island.jpg](https://upload.wikimedia.org/wikipedia/commons/8/83/Common_wombat_%28Vombatus_ursinus_tasmaniensis%29_juvenile_Maria_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Norderney, Dünenlandschaft, Wegweiser -- 2025 -- 9437.jpg**
+**Common wombat (Vombatus ursinus tasmaniensis) juvenile Maria Island.jpg**
 
-Dietmar Rabich
+Charles J. Sharp
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +47,8 @@ Dietmar Rabich
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[General Knowledge - medium]** Where does water from Poland Spring water bottles come from?
-> Answer: ||Maine, United States||
+**[Entertainment: Video Games - hard]** Which character from the Mega Man series made a small cameo on Volt Catfish's introduction scene in CD versions of Mega Man X3?
+> Answer: ||Auto||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +65,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-11-05T14:03:25Z UTC_
+_Last updated: 2026-11-06T13:47:23Z UTC_
