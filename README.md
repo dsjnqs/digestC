@@ -1,13 +1,11 @@
-# Daily Digest - 2026-11-06
+# Daily Digest - 2026-11-07
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**serendipity** *(noun)* - the occurrence of finding pleasant things by chance
-
-_(Live lookup failed: Timeout was reached - showing a fallback word.)_
+**sialagogue** - (definition lookup failed: HTTP error response)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -16,7 +14,7 @@ _(Live lookup failed: Timeout was reached - showing a fallback word.)_
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-To "testify" was based on men in the Roman court swearing to a statement made by swearing on their testicles.
+Between 2 and 3 jockeys are killed each year in horse racing.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -25,7 +23,7 @@ To "testify" was based on men in the Roman court swearing to a statement made by
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Your mind is infinite, it's your doubts that are limiting." - Robert Kiyosaki
+"The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened." - Kamal Ravikant
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Common wombat (Vombatus ursinus tasmaniensis) juvenile Maria Island.jpg](https://upload.wikimedia.org/wikipedia/commons/8/83/Common_wombat_%28Vombatus_ursinus_tasmaniensis%29_juvenile_Maria_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Aekingerzand Nationaal Park Drents-Friese Wold. 11-08-2025. (actm.) 10.jpg](https://upload.wikimedia.org/wikipedia/commons/0/0c/Aekingerzand_Nationaal_Park_Drents-Friese_Wold._11-08-2025._%28actm.%29_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Common wombat (Vombatus ursinus tasmaniensis) juvenile Maria Island.jpg**
+**Aekingerzand Nationaal Park Drents-Friese Wold. 11-08-2025. (actm.) 10.jpg**
 
-Charles J. Sharp
+Agnes Monkelbaan
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -47,8 +45,8 @@ Charles J. Sharp
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Video Games - hard]** Which character from the Mega Man series made a small cameo on Volt Catfish's introduction scene in CD versions of Mega Man X3?
-> Answer: ||Auto||
+**[Mythology - medium]** What is the name of the first human being in Norse mythology?
+> Answer: ||Ask||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -65,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-11-06T13:47:23Z UTC_
+_Last updated: 2026-11-07T12:31:12Z UTC_
