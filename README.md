@@ -1,11 +1,11 @@
-# Daily Digest - 2026-11-09
+# Daily Digest - 2026-11-10
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**madrasah** - (definition lookup failed: HTTP error response)
+**jarlsbergs** - (definition lookup failed: HTTP error response)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-In most watch advertisements the time displayed on a watch is 10:10.
+Average number of people airborne over the US any given hour: 61,000.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,9 +23,7 @@ In most watch advertisements the time displayed on a watch is 10:10.
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"The only way to do great work is to love what you do." - Steve Jobs
-
-_(Live lookup failed: Timeout was reached - showing a fallback quote.)_
+"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward." - Colin Powell
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,12 +32,11 @@ _(Live lookup failed: Timeout was reached - showing a fallback quote.)_
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Panorama of Himalayas from Ranikhet, Uttarakhand, India.jpg](https://upload.wikimedia.org/wikipedia/commons/4/4d/Panorama_of_Himalayas_from_Ranikhet%2C_Uttarakhand%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Verdun – Cathédrale Notre-Dame – Crypte 2025 08 16.jpg](https://upload.wikimedia.org/wikipedia/commons/5/56/Verdun_%E2%80%93_Cath%C3%A9drale_Notre-Dame_%E2%80%93_Crypte_2025_08_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Panorama of Himalayas from Ranikhet, Uttarakhand, India.jpg**
+**Verdun – Cathédrale Notre-Dame – Crypte 2025 08 16.jpg**
 
-Original:  Harshit SR
-Derivative work:  UnpetitproleX
+Andreas F. Borchert
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -48,8 +45,8 @@ Derivative work:  UnpetitproleX
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Books - hard]** Abel Magwitch is a character from which Charles Dickens novel?
-> Answer: ||Great Expectations||
+**[Entertainment: Music - medium]** What song by Tina Turner is the theme for Mad Max Beyond Thunderdome?
+> Answer: ||We Don't Need Another Hero||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -66,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-11-09T15:18:41Z UTC_
+_Last updated: 2026-11-10T14:24:20Z UTC_
