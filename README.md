@@ -1,11 +1,11 @@
-# Daily Digest - 2026-11-10
+# Daily Digest - 2026-11-11
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**jarlsbergs** - (definition lookup failed: HTTP error response)
+**lengthens** - (definition lookup failed: HTTP error response)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Average number of people airborne over the US any given hour: 61,000.
+A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ Average number of people airborne over the US any given hour: 61,000.
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward." - Colin Powell
+"A random act of kindness, no matter how small, can make a tremendous impact on someone else's life." - Roy T. Bennett
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Verdun – Cathédrale Notre-Dame – Crypte 2025 08 16.jpg](https://upload.wikimedia.org/wikipedia/commons/5/56/Verdun_%E2%80%93_Cath%C3%A9drale_Notre-Dame_%E2%80%93_Crypte_2025_08_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Kościelec view 2.jpg](https://upload.wikimedia.org/wikipedia/commons/2/28/Ko%C5%9Bcielec_view_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Verdun – Cathédrale Notre-Dame – Crypte 2025 08 16.jpg**
+**Kościelec view 2.jpg**
 
-Andreas F. Borchert
+kallerna
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Andreas F. Borchert
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Music - medium]** What song by Tina Turner is the theme for Mad Max Beyond Thunderdome?
-> Answer: ||We Don't Need Another Hero||
+**[History - easy]** Abolitionist John Brown raided the arsenal in which Virginia Town?
+> Answer: ||Harper's Ferry||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-11-10T14:24:20Z UTC_
+_Last updated: 2026-11-11T13:38:06Z UTC_
