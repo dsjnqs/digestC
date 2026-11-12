@@ -1,11 +1,11 @@
-# Daily Digest - 2026-11-11
+# Daily Digest - 2026-11-12
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**lengthens** - (definition lookup failed: HTTP error response)
+**aeropulse** - (definition lookup failed: HTTP error response)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop.
+During a severe windstorm or rainstorm the Empire State Building sways several feet to either side.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,9 @@ A full-loaded supertanker traveling at normal speed takes at least 20 minutes to
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"A random act of kindness, no matter how small, can make a tremendous impact on someone else's life." - Roy T. Bennett
+"The only way to do great work is to love what you do." - Steve Jobs
+
+_(Live lookup failed: Timeout was reached - showing a fallback quote.)_
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +34,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Kościelec view 2.jpg](https://upload.wikimedia.org/wikipedia/commons/2/28/Ko%C5%9Bcielec_view_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![CZE-22-Czechoslovak National Bank-50 Korun (1929).jpg](https://upload.wikimedia.org/wikipedia/commons/5/5d/CZE-22-Czechoslovak_National_Bank-50_Korun_%281929%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Kościelec view 2.jpg**
+**CZE-22-Czechoslovak National Bank-50 Korun (1929).jpg**
 
-kallerna
+National Museum of American History
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +47,8 @@ kallerna
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[History - easy]** Abolitionist John Brown raided the arsenal in which Virginia Town?
-> Answer: ||Harper's Ferry||
+**[Mythology - easy]** Who was the only god from Greece who did not get a name change in Rome?
+> Answer: ||Apollo||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +65,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-11-11T13:38:06Z UTC_
+_Last updated: 2026-11-12T14:41:48Z UTC_
