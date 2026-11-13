@@ -1,11 +1,11 @@
-# Daily Digest - 2026-11-12
+# Daily Digest - 2026-11-13
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**aeropulse** - (definition lookup failed: HTTP error response)
+**veridicality** - (definition lookup failed: HTTP error response)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-During a severe windstorm or rainstorm the Empire State Building sways several feet to either side.
+On a Canadian two dollar bill, the flag flying over the Parliament buildings is an American flag.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,9 +23,7 @@ During a severe windstorm or rainstorm the Empire State Building sways several f
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"The only way to do great work is to love what you do." - Steve Jobs
-
-_(Live lookup failed: Timeout was reached - showing a fallback quote.)_
+"An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question." - John Tukey
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -34,11 +32,11 @@ _(Live lookup failed: Timeout was reached - showing a fallback quote.)_
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![CZE-22-Czechoslovak National Bank-50 Korun (1929).jpg](https://upload.wikimedia.org/wikipedia/commons/5/5d/CZE-22-Czechoslovak_National_Bank-50_Korun_%281929%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Indian Courser in Bhigwan August 2025 by Tisha Mukherjee 07.jpg](https://upload.wikimedia.org/wikipedia/commons/4/46/Indian_Courser_in_Bhigwan_August_2025_by_Tisha_Mukherjee_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**CZE-22-Czechoslovak National Bank-50 Korun (1929).jpg**
+**Indian Courser in Bhigwan August 2025 by Tisha Mukherjee 07.jpg**
 
-National Museum of American History
+Tisha Mukherjee
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -47,8 +45,8 @@ National Museum of American History
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Mythology - easy]** Who was the only god from Greece who did not get a name change in Rome?
-> Answer: ||Apollo||
+**[Geography - medium]** What is the capital of Laos?
+> Answer: ||Vientiane||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -65,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-11-12T14:41:48Z UTC_
+_Last updated: 2026-11-13T13:58:43Z UTC_
