@@ -1,11 +1,11 @@
-# Daily Digest - 2026-11-13
+# Daily Digest - 2026-11-14
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**veridicality** - (definition lookup failed: HTTP error response)
+**resegregates** - (definition lookup failed: HTTP error response)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-On a Canadian two dollar bill, the flag flying over the Parliament buildings is an American flag.
+Butterflies taste with their feet.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,7 @@ On a Canadian two dollar bill, the flag flying over the Parliament buildings is 
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question." - John Tukey
+"There is nothing more frightful than ignorance in action." - Johann Wolfgang von Goethe
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +32,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Indian Courser in Bhigwan August 2025 by Tisha Mukherjee 07.jpg](https://upload.wikimedia.org/wikipedia/commons/4/46/Indian_Courser_in_Bhigwan_August_2025_by_Tisha_Mukherjee_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Eastern quoll (Dasyurus viverrinus) fawn morph Esk Valley.jpg](https://upload.wikimedia.org/wikipedia/commons/b/bd/Eastern_quoll_%28Dasyurus_viverrinus%29_fawn_morph_Esk_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Indian Courser in Bhigwan August 2025 by Tisha Mukherjee 07.jpg**
+**Eastern quoll (Dasyurus viverrinus) fawn morph Esk Valley.jpg**
 
-Tisha Mukherjee
+Charles J. Sharp
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,8 +45,8 @@ Tisha Mukherjee
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Geography - medium]** What is the capital of Laos?
-> Answer: ||Vientiane||
+**[Entertainment: Video Games - hard]** In the PAYDAY series, where did Dallas start his criminal career?
+> Answer: ||Chicago, Illinois||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -63,4 +63,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-11-13T13:58:43Z UTC_
+_Last updated: 2026-11-14T13:00:20Z UTC_
