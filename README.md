@@ -1,11 +1,11 @@
-# Daily Digest - 2026-11-18
+# Daily Digest - 2026-11-19
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**newies** *(noun)* - Something newly released, such as a song or film.
+**hypermanias** - (definition lookup failed: HTTP error response)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Jamaica has the most churches per square mile than any other country in the world.
+On average, 12 newborns will be given to the wrong parents daily.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -34,11 +34,11 @@ _(Live lookup failed: Timeout was reached - showing a fallback quote.)_
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Ponte Vittorio Emanuele II San Pietro, Rome, Italy.jpg](https://upload.wikimedia.org/wikipedia/commons/9/91/Ponte_Vittorio_Emanuele_II_San_Pietro%2C_Rome%2C_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![008 Eurasian hoopoe eating in Keoladeo National Park Photo by Giles Laurent.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e7/008_Eurasian_hoopoe_eating_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Ponte Vittorio Emanuele II San Pietro, Rome, Italy.jpg**
+**008 Eurasian hoopoe eating in Keoladeo National Park Photo by Giles Laurent.jpg**
 
-Jebulon
+Giles Laurent
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -47,8 +47,8 @@ Jebulon
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Entertainment: Video Games - hard]** In Terraria, which debuff does the ankh charm not provide immunity to?
-> Answer: ||Venom||
+**[Entertainment: Video Games - medium]** Who are the two protagonists of the game Yakuza 0?
+> Answer: ||Kazuma Kiryu and Goro Majima||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -65,4 +65,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-11-18T15:10:28Z UTC_
+_Last updated: 2026-11-19T15:18:29Z UTC_
