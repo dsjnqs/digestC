@@ -1,11 +1,11 @@
-# Daily Digest - 2026-11-20
+# Daily Digest - 2026-11-21
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**brassware** *(noun)* - Articles made from brass, treated as a group.
+**unhallowing** - (definition lookup failed: HTTP error response)
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-Tina Turner's real name is Annie Mae Bullock.
+The serial number of the first MAC ever produced was 2001.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -23,7 +23,9 @@ Tina Turner's real name is Annie Mae Bullock.
 ## 💬 Quote of the Day
 _A quote - inspirational, funny, or philosophical._
 
-"Never waste a minute of your precious life thinking about people you don't like." - Celestine Chua
+"The only way to do great work is to love what you do." - Steve Jobs
+
+_(Live lookup failed: Timeout was reached - showing a fallback quote.)_
 
 **Source:** [ZenQuotes API](https://zenquotes.io/)
 
@@ -32,11 +34,11 @@ _A quote - inspirational, funny, or philosophical._
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Andiast-Breil-Brigels. 24-09-2025. (d.j.b.) 08.jpg](https://upload.wikimedia.org/wikipedia/commons/c/cc/Andiast-Breil-Brigels._24-09-2025._%28d.j.b.%29_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Starburst in NGC 4449 (captured by the Hubble Space Telescope).jpg](https://upload.wikimedia.org/wikipedia/commons/c/c1/Starburst_in_NGC_4449_%28captured_by_the_Hubble_Space_Telescope%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Andiast-Breil-Brigels. 24-09-2025. (d.j.b.) 08.jpg**
+**Starburst in NGC 4449 (captured by the Hubble Space Telescope).jpg**
 
-Dominicus Johannes Bergsma.
+NASA, ESA, A. Aloisi (STScI/ESA), and The Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -45,10 +47,8 @@ Dominicus Johannes Bergsma.
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Geography - Easy]** What is the smallest country in the world?
-> Answer: ||Vatican City||
-
-_(Live lookup failed: Timeout was reached - showing a fallback question.)_
+**[Entertainment: Board Games - medium]** At the start of a standard game of the Monopoly, if you throw a double six, which square would you land on?
+> Answer: ||Electric Company||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -65,4 +65,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-11-20T14:57:10Z UTC_
+_Last updated: 2026-11-21T14:16:18Z UTC_
