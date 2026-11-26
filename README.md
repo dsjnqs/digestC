@@ -1,11 +1,11 @@
-# Daily Digest - 2026-11-25
+# Daily Digest - 2026-11-26
 
 _A daily digest, refreshed automatically once a day._
 
 ## 📖 Word of the Day
 _A vocabulary word, expression, or piece of language worth learning._
 
-**masticated** *(verb)* - To chew (food).
+**photocurrents** *(noun)* - Any electric current that flows as a result of photoconductivity or the photovoltaic effect
 
 **Source:** [Random Word API + Free Dictionary API](https://dictionaryapi.dev/)
 
@@ -14,7 +14,7 @@ _A vocabulary word, expression, or piece of language worth learning._
 ## 💡 Fact of the Day
 _Something true, interesting, or surprising._
 
-The city of Venice stands on about 120 small islands.
+Bruce Lee was so fast that they actually had to s-l-o-w film down so you could see his moves.
 
 **Source:** [Useless Facts API](https://uselessfacts.jsph.pl/)
 
@@ -34,11 +34,11 @@ _(Live lookup failed: Timeout was reached - showing a fallback quote.)_
 ## 🌌 Image of the Day
 _Wikipedia's Picture of the Day._
 
-![Wredes passage November 2025 01.jpg](https://upload.wikimedia.org/wikipedia/commons/1/10/Wredes_passage_November_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Male wild turkey (Meleagris gallopavo) strutting.jpg](https://upload.wikimedia.org/wikipedia/commons/8/8a/Male_wild_turkey_%28Meleagris_gallopavo%29_strutting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-**Wredes passage November 2025 01.jpg**
+**Male wild turkey (Meleagris gallopavo) strutting.jpg**
 
-ArildV
+Frank Schulenburg
 
 **Source:** [Wikipedia Picture of the Day (Wikimedia REST API)](https://en.wikipedia.org/wiki/Main_Page)
 
@@ -47,8 +47,8 @@ ArildV
 ## 🧠 Trivia of the Day
 _A quick knowledge challenge._
 
-**[Science: Computers - easy]** What kind of memory is used on memory cache?
-> Answer: ||SRAM||
+**[General Knowledge - medium]** What is a dead mall?
+> Answer: ||A mall with high vacancy rates or low consumer foot traffic||
 
 **Source:** [Open Trivia Database](https://opentdb.com/)
 
@@ -65,4 +65,4 @@ _(Live lookup failed: unknown error - check back tomorrow.)_
 
 ---
 
-_Last updated: 2026-11-25T16:50:59Z UTC_
+_Last updated: 2026-11-26T16:27:51Z UTC_
